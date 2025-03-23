@@ -3606,16 +3606,18 @@ input, select, textarea {
 
 /* Contact Method */
 .contact-method {
-    margin: 0 0 2em 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    width: 100%;
+    max-width: 250px; /* Ensures equal width */
 }
 
+/* Ensure icons are properly centered */
 .contact-method .icon {
     font-size: 2rem;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
     width: 3.5rem;
     height: 3.5rem;
     display: flex;
@@ -3629,26 +3631,27 @@ input, select, textarea {
 /* Contact Section */
 #contact {
     border-bottom: solid 1px rgba(212, 212, 255, 0.1);
-    overflow-x: hidden;
     padding-bottom: 2em;
 }
 
 #contact > .inner {
     display: flex;
     flex-direction: column;
-    padding: 0 !important;
-    align-items: center; /* Ensure centering */
+    align-items: center;
+    width: 100%;
 }
 
+/* Flexbox for contact details */
 #contact .contact-details {
     display: flex;
-    justify-content: center; /* Center the sections */
+    justify-content: center;
+    align-items: stretch; /* Ensure sections are evenly sized */
     gap: 3em; /* Space between sections */
     width: 100%;
-    max-width: 900px; /* Prevent stretching */
-    margin-bottom: 2em;
+    max-width: 900px;
 }
 
+/* Individual contact sections */
 #contact .contact-details > section {
     flex: 1;
     padding: 2em;
@@ -3656,9 +3659,11 @@ input, select, textarea {
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-width: 200px; /* Prevent excessive shrinking */
     border-right: solid 1px rgba(212, 212, 255, 0.1);
 }
 
+/* Remove border on the last section */
 #contact .contact-details > section:last-child {
     border-right: none;
 }
