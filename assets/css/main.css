@@ -3607,26 +3607,23 @@ input, select, textarea {
 /* Contact Method */
 .contact-method {
     margin: 0 0 2em 0;
-    padding-left: 3.25em;
-    position: relative;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    flex-direction: column; /* Ensures consistent alignment */
+    text-align: center;
 }
 
 .contact-method .icon {
-    position: relative; /* Changed from absolute */
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+    width: 3.5rem;
+    height: 3.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 3rem; /* Ensures uniform size */
-    height: 3rem;
-    font-size: 2rem;
-    margin-bottom: 0.5em;
-}
-
-.contact-method h3 {
-    margin: 0 0 0.5em 0;
+    border-radius: 50%;
+    background-color: white;
+    color: #333;
 }
 
 /* Contact Section */
@@ -3640,12 +3637,15 @@ input, select, textarea {
     display: flex;
     flex-direction: column;
     padding: 0 !important;
+    align-items: center; /* Ensure centering */
 }
 
 #contact .contact-details {
     display: flex;
-    justify-content: space-between;
-    align-items: center; /* Ensures proper alignment */
+    justify-content: center; /* Center the sections */
+    gap: 3em; /* Space between sections */
+    width: 100%;
+    max-width: 900px; /* Prevent stretching */
     margin-bottom: 2em;
 }
 
@@ -3653,6 +3653,9 @@ input, select, textarea {
     flex: 1;
     padding: 2em;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     border-right: solid 1px rgba(212, 212, 255, 0.1);
 }
 
@@ -3665,70 +3668,43 @@ input, select, textarea {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap; /* Allows wrapping if needed */
-    gap: 3em; /* Adjust spacing */
+    flex-wrap: wrap;
+    gap: 2em;
     margin-top: 2em;
     padding-bottom: 2em;
 }
 
 #contact .contact-icons a {
+    font-size: 2.5rem;
+    color: #fff;
+    background: #333;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 4rem; /* Ensures uniform size */
-    height: 4rem;
-    font-size: 2.5rem;
-    color: #333; /* Default icon color */
-    transition: color 0.3s ease;
+    transition: background-color 0.3s ease;
 }
 
 #contact .contact-icons a:hover {
-    color: #0073e6; /* Highlight on hover */
+    background-color: #0073e6;
 }
 
-/* Responsive Adjustments */
+/* Responsive Fixes */
 @media screen and (max-width: 980px) {
-    #contact > .inner {
-        display: block;
-    }
-
     #contact .contact-details {
-        display: block;
-        margin-bottom: 1.5em;
+        flex-direction: column;
+        align-items: center;
+        gap: 2em;
     }
 
     #contact .contact-details > section {
         width: 100%;
-        padding: 3em 0;
         border-right: none;
-    }
-
-    #contact .contact-icons {
-        flex-wrap: wrap;
-        gap: 1.5em;
-    }
-
-    #contact .contact-icons a {
-        font-size: 2.5rem;
+        padding: 2em 0;
     }
 }
-
-@media screen and (max-width: 736px) {
-    #contact .contact-details > section {
-        padding: 2.5em 0;
-    }
-
-    #contact .contact-icons {
-        flex-direction: row; /* Keep icons in a row */
-        flex-wrap: wrap; /* Allow them to wrap instead of stacking */
-        gap: 1.5em;
-    }
-
-    #contact .contact-icons a {
-        font-size: 2rem;
-    }
-}
-
 
 /* Footer */
 
