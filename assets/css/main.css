@@ -3618,14 +3618,14 @@ input, select, textarea {
     width: 100%;
 }
 
-/* Contact Details - Keep Sections Aligned */
+/* Contact Details - Ensure Even Spacing */
 .contact-details {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 3em;
+    gap: 5em; /* Increased gap for more spacing */
     width: 100%;
-    max-width: 600px; /* Adjusted for better centering */
+    max-width: 800px; /* Adjusted for better distribution */
 }
 
 /* Individual Contact Method Styling */
@@ -3638,12 +3638,11 @@ input, select, textarea {
     max-width: 250px;
 }
 
-/* Icons Inside Contact Method */
+/* Round Icons with Equal Size */
 .contact-method .icon {
     font-size: 2rem;
-    margin-bottom: 1em;
-    width: 3rem;
-    height: 3rem;
+    width: 4rem;
+    height: 4rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -3651,22 +3650,14 @@ input, select, textarea {
     background-color: #f8f9fa; /* Light background for better visibility */
     color: #333;
     border: 2px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 /* Responsive Adjustments */
 @media screen and (max-width: 980px) {
     .contact-details {
         flex-direction: column;
-        gap: 2em;
-        max-width: 100%;
-    }
-}
-
-/* Responsive Adjustments */
-@media screen and (max-width: 980px) {
-    .contact-details {
-        flex-direction: column;
-        gap: 2em;
+        gap: 3em; /* Increased spacing for stacked layout */
         max-width: 100%;
     }
 }
