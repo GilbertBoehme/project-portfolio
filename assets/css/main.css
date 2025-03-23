@@ -3607,7 +3607,11 @@ input, select, textarea {
 #contact {
     text-align: center;
     border-bottom: solid 1px rgba(212, 212, 255, 0.1);
-    padding-bottom: 2em;
+    padding-bottom: 4em; /* Increased bottom padding for more space */
+    padding-top: 4em; /* Added top padding for balance */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* Wrapper for Contact Details & Icons */
@@ -3618,14 +3622,15 @@ input, select, textarea {
     width: 100%;
 }
 
-/* Contact Details - Ensure Even Spacing */
+/* Contact Details - Center Content */
 .contact-details {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5em; /* Increased gap for more spacing */
+    gap: 6em; /* Increased gap for more spacing */
     width: 100%;
-    max-width: 800px; /* Adjusted for better distribution */
+    max-width: 800px; /* Keeps content aligned */
+    text-align: center;
 }
 
 /* Individual Contact Method Styling */
@@ -3653,11 +3658,16 @@ input, select, textarea {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+/* More Space at the Bottom */
+body {
+    padding-bottom: 6em; /* Ensures extra space at the bottom of the page */
+}
+
 /* Responsive Adjustments */
 @media screen and (max-width: 980px) {
     .contact-details {
         flex-direction: column;
-        gap: 3em; /* Increased spacing for stacked layout */
+        gap: 4em; /* Increased spacing for stacked layout */
         max-width: 100%;
     }
 }
