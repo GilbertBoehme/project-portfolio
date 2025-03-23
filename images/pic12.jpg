@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="de-DE">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="de-DE">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="de-DE">
+<!--<![endif]-->
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+        <meta name="news_keywords" content="business intelligence, microsoft, data">
+        <title>Microsoft Power BI Premium nun allgemein verfügbar - silicon.de</title>
+    <style type="text/css">
+        .bigmag{
+            top: 21px;
+            left: 7px;
+            width: 152px;
+            height: auto;
+            position: absolute;
+            z-index: 0;
+            padding-right: 30px;
+        }
+        .smallmag {
+            top: 135px;
+            left: 129px;
+            width: 61px;
+            height: auto;
+            position: absolute;
+            z-index: 0;
+            padding-right: 30px;
+        }
+        .left{
+            position: relative;
+            z-index: 1;
+        }
+        .screens{
+            position: relative;
+        }
+    </style>
+    <link rel="profile" href="//gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.silicon.de/wp/xmlrpc.php">
+    <!--[if lt IE 9]>
+    <script src="https://www.silicon.de/wp-content/themes/kamino/js/html5.js"></script>
+    <![endif]-->
+    <meta name='robots' content='max-image-preview:large, index,follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Angekündigt wurde die Software im Mai. Anwender können sie flexibel buchen, die Kosten berechnen sich nach virtuellen Cores und der Memory-Größe. Als Auswahlhilfe stellt Microsoft ein Kalkulationstool zur Verfügung." />
+	<link rel="canonical" href="https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Microsoft Power BI Premium nun allgemein verfügbar - silicon.de" />
+	<meta property="og:description" content="Angekündigt wurde die Software im Mai. Anwender können sie flexibel buchen, die Kosten berechnen sich nach virtuellen Cores und der Memory-Größe. Als Auswahlhilfe stellt Microsoft ein Kalkulationstool zur Verfügung." />
+	<meta property="og:url" content="https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar" />
+	<meta property="og:site_name" content="silicon.de" />
+	<meta property="article:publisher" content="https://facebook.com/silicon.de" />
+	<meta property="article:published_time" content="2017-06-13T11:30:38+00:00" />
+	<meta property="article:modified_time" content="2017-06-13T11:21:08+00:00" />
+	<meta property="og:image" content="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi.png" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="600" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Redaktion" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@silicon_de" />
+	<meta name="twitter:site" content="@silicon_de" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Peter Marwan" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="amphtml" href="https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar/amp" /><meta name="generator" content="AMP for WP 1.0.64"/><link rel='stylesheet' id='classic-theme-styles-css' href='https://www.silicon.de/wp/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hutt-css' href='https://www.silicon.de/wp-content/plugins/kamino-hutt/assets/css/hutt.css?ver=1741194379' type='text/css' media='all' />
+<link rel='stylesheet' id='kamino_plugin_quick_registration-css' href='https://www.silicon.de/wp-content/plugins/kamino-quick-registration/public/css/kamino-plugin-quick-registration-public.css?ver=1.2.3' type='text/css' media='all' />
+<link rel="stylesheet"  href="https://www.silicon.de/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.3" type="text/css" async="async">
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background: #d8e1eb;
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='de-layout-css' href='https://www.silicon.de/wp-content/themes/kamino/assets/css/de-layout.css?ver=1_1.54.9-zABW_006-N3pd.2TUh.vJUk' type='text/css' media='all' />
+<link rel="stylesheet"  href="https://www.silicon.de/wp-content/themes/kamino/assets/refonte_v2/css/silicon-style.css?ver=1741194380" type="text/css" async="async">
+<link rel='stylesheet' id='local-special-headers-css' href='https://www.silicon.de/wp-content/themes/kamino/assets/css/local-special-headers.css?ver=1_1.54.9-zABW_006-N3pd.2TUh.vJUk' type='text/css' media='all' />
+<link rel='stylesheet' id='blog-css' href='https://www.silicon.de/wp-content/plugins/kamino-post-type-de-blog/assets/css/blog.css?ver=1_1.54.9-zABW_006-N3pd.2TUh.vJUk' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.silicon.de/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/kamino-hutt/assets/js/visible.min.js?ver=6.1' id='jquery-visible-js'></script>
+<script type='text/javascript' id='kamino_plugin_quick_registration-js-extra'>
+/* <![CDATA[ */
+var pw_script_vars = {"failure_field":"Bitte die Email-Adresse eintragen","failure_form":"Ung\u00fcltige Email-Adresse","request_fail_msg":"Leider konnte der Vorgang nicht abgeschlossen werden. Bitte versuchen Sie es sp\u00e4ter noch einmal.","KAMINO_SUBSCRIPTION_URL":"\/\/subscriber.silicon.de","url_post":"\/\/subscriber.silicon.de\/profile\/register-to-newsletter.php","site_name":"silicon.de","push_data":{"site":{"name":"silicon.de","domain":"www.silicon.de","country":"germany"},"page":"single","type":"post","id":41650453,"slug":"microsoft-power-bi-premium-nun-allgemein-verfuegbar","url":"https:\/\/www.silicon.de\/41650453\/microsoft-power-bi-premium-nun-allgemein-verfuegbar","title":"Microsoft Power BI Premium nun allgemein verf\u00fcgbar","author":"Peter Marwan","taxonomy":[{"name":"category","slug":"news","data":[{"name":"Data","slug":"data-ki-iot"}]},{"name":"post_tag","slug":"themen","data":[{"name":"Business Intelligence","slug":"business-intelligence"},{"name":"Microsoft","slug":"microsoft"}]},{"name":"displayed_experts","slug":"experten"},{"name":"displayed_advertisers","slug":"advertiser"},{"name":"displayed_authors","slug":"autor","data":[{"name":"Peter Marwan","slug":"peter-marwan"}]}]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.silicon.de/wp-content/plugins/kamino-quick-registration/public/js/kamino-plugin-quick-registration-public.js?ver=1.2.3" defer="defer" ></script>
+<script type='text/javascript' id='cookie-js-extra'>
+/* <![CDATA[ */
+var kamino_cookie_data = {"KAMINO_ANABOLIC_COOKIE_NAME":"de9","KAMINO_SUBSCRIPTION_URL":"\/\/subscriber.silicon.de","KAMINO_SITE_NAME":"silicon.de","KAMINO_REFONTE_V3":"1","string_continue":"http%3A%2F%2Fwww.silicon.de%2F41650453%2Fmicrosoft-power-bi-premium-nun-allgemein-verfuegbar","string_continue_label":"silicon.de","string_edit_your_profile":"Bearbeiten Sie Ihr Profil","string_disconnect":"Disconnect","string_login":"Login","string_newsletter":"Newsletter","string_cookie_privacy_text":"Wir verwenden Cookies von Drittanbietern. Durch die weitere Nutzung der Website akzeptieren Sie die Verwendung dieser Cookies. Weitere Details finden Sie in unseren Cookie-Richtlinien.. <a href=\"http:\/\/www.silicon.de\/service\/datenschutz\/\" class=\"knowmore\">Mehr erfahren<\/a>","string_close":"Schlie\u00dfen","string_agree":"Ich stimme zu","string_donotshowmsg":"Diese Nachricht nicht noch einmal anzeigen"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/themes/kamino/assets/js/cookie.js?ver=1741194380' id='cookie-js'></script>
+<script type="text/javascript" src="https://www.silicon.de/wp-content/themes/kamino/assets/js/utils-kamino.min.js?ver=1741194380" async="async" ></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/themes/kamino/assets/refonte_v2/js/script.js?ver=1741194380' id='mobile-menu-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.silicon.de/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.silicon.de/wp/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.silicon.de/?p=41650453' />
+<link href="https://trinitymedia.ai/" rel="preconnect" crossorigin="anonymous" />
+<link href="https://vd.trinitymedia.ai/" rel="preconnect" crossorigin="anonymous" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="ahrefs-site-verification" content="f09ae51bbb87186a79eb663f3af1e37d0d6d28a6a2f26784d7850332b7eb4166">
+<script>function _extends(){return(_extends=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(t[o]=n[o])}return t}).apply(this,arguments)}function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(t,e){"object"===("undefined"==typeof exports?"undefined":_typeof(exports))&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.LazyLoad=e()}(this,function(){"use strict";var t="undefined"!=typeof window,e=t&&!("onscroll"in window)||"undefined"!=typeof navigator&&/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),n=t&&"IntersectionObserver"in window,o=t&&"classList"in document.createElement("p"),r={elements_selector:"img",container:e||t?document:null,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",class_loading:"loading",class_loaded:"loaded",class_error:"error",load_delay:0,auto_unobserve:!0,callback_enter:null,callback_exit:null,callback_reveal:null,callback_loaded:null,callback_error:null,callback_finish:null},a=function(t,e){return t.getAttribute("data-"+e)},s=function(t,e,n){var o="data-"+e;null!==n?t.setAttribute(o,n):t.removeAttribute(o)},i=function(t){return"true"===a(t,"was-processed")},c=function(t,e){return s(t,"ll-timeout",e)},l=function(t){return a(t,"ll-timeout")},u=function(t,e){var n,o=new t(e);try{n=new CustomEvent("LazyLoad::Initialized",{detail:{instance:o}})}catch(t){(n=document.createEvent("CustomEvent")).initCustomEvent("LazyLoad::Initialized",!1,!1,{instance:o})}window.dispatchEvent(n)};var d=function(t,e){t&&t(e)},f=function(t,e){t._loadingCount+=e,0===t._elements.length&&0===t._loadingCount&&d(t._settings.callback_finish)},_=function(t){for(var e,n=[],o=0;e=t.children[o];o+=1)"SOURCE"===e.tagName&&n.push(e);return n},v=function(t,e,n){n&&t.setAttribute(e,n)},b=function(t,e){v(t,"sizes",a(t,e.data_sizes)),v(t,"srcset",a(t,e.data_srcset)),v(t,"src",a(t,e.data_src))},g={IMG:function(t,e){var n=t.parentNode;n&&"PICTURE"===n.tagName&&_(n).forEach(function(t){b(t,e)});b(t,e)},IFRAME:function(t,e){v(t,"src",a(t,e.data_src))},VIDEO:function(t,e){_(t).forEach(function(t){v(t,"src",a(t,e.data_src))}),v(t,"src",a(t,e.data_src)),t.load()}},m=function(t,e){var n,o,r=e._settings,s=t.tagName,i=g[s];if(i)return i(t,r),f(e,1),void(e._elements=(n=e._elements,o=t,n.filter(function(t){return t!==o})));!function(t,e){var n=a(t,e.data_src),o=a(t,e.data_bg);n&&(t.style.backgroundImage='url("'.concat(n,'")')),o&&(t.style.backgroundImage=o)}(t,r)},h=function(t,e){o?t.classList.add(e):t.className+=(t.className?" ":"")+e},p=function(t,e,n){t.addEventListener(e,n)},y=function(t,e,n){t.removeEventListener(e,n)},E=function(t,e,n){y(t,"load",e),y(t,"loadeddata",e),y(t,"error",n)},w=function(t,e,n){var r=n._settings,a=e?r.class_loaded:r.class_error,s=e?r.callback_loaded:r.callback_error,i=t.target;!function(t,e){o?t.classList.remove(e):t.className=t.className.replace(new RegExp("(^|\\s+)"+e+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,"")}(i,r.class_loading),h(i,a),d(s,i),f(n,-1)},k=function(t,e){var n=function n(r){w(r,!0,e),E(t,n,o)},o=function o(r){w(r,!1,e),E(t,n,o)};!function(t,e,n){p(t,"load",e),p(t,"loadeddata",e),p(t,"error",n)}(t,n,o)},I=["IMG","IFRAME","VIDEO"],L=function(t,e){var n=e._observer;z(t,e),n&&e._settings.auto_unobserve&&n.unobserve(t)},x=function(t){var e=l(t);e&&(clearTimeout(e),c(t,null))},A=function(t,e){var n=e._settings.load_delay,o=l(t);o||(o=setTimeout(function(){L(t,e),x(t)},n),c(t,o))},z=function(t,e,n){var o=e._settings;!n&&i(t)||(I.indexOf(t.tagName)>-1&&(k(t,e),h(t,o.class_loading)),m(t,e),function(t){s(t,"was-processed","true")}(t),d(o.callback_reveal,t))},O=function(t){return!!n&&(t._observer=new IntersectionObserver(function(e){e.forEach(function(e){return function(t){return t.intersectionRatio>0}(e)?function(t,e){var n=e._settings;d(n.callback_enter,t),n.load_delay?A(t,e):L(t,e)}(e.target,t):function(t,e){var n=e._settings;d(n.callback_exit,t),n.load_delay&&x(t)}(e.target,t)})},{root:(e=t._settings).container===document?null:e.container,rootMargin:e.thresholds||e.threshold+"px"}),!0);var e},N=function(t,e){this._settings=function(t){return _extends({},r,t)}(t),this._loadingCount=0,O(this),this.update(e)};return N.prototype={update:function(t){var n=this,o=this._settings,r=t||o.container.querySelectorAll(o.elements_selector);this._elements=function(t){return t.filter(function(t){return!i(t)})}(Array.prototype.slice.call(r)),!e&&this._observer?this._elements.forEach(function(t){n._observer.observe(t)}):this.loadAll()},destroy:function(){var t=this;this._observer&&(this._elements.forEach(function(e){t._observer.unobserve(e)}),this._observer=null),this._elements=null,this._settings=null},load:function(t,e){z(t,this,e)},loadAll:function(){var t=this;this._elements.forEach(function(e){L(e,t)})}},t&&function(t,e){if(e)if(e.length)for(var n,o=0;n=e[o];o+=1)u(t,n);else u(t,e)}(N,window.lazyLoadOptions),N});
+lazyLoader = {init: function(e) {}};</script><meta property="og:image" content="https://www.silicon.de/wp-content/themes/kamino/assets/images/logos_silicon/germany.png" />
+				<script>
+					window.dataLayer = window.dataLayer || [];
+					dataLayer.push({
+						'page': {
+							'publicationDate': '2017_06_13',
+							'author': 'silicon_redaktion',
+							'tagContent': 'business_intelligence|microsoft',
+							'format': 'articles_news',
+							'canonicalSite': undefined,
+							'parentPage': undefined,
+							'childPage': undefined,
+							'companyId': undefined,
+							'contentId': undefined,
+							'templatePage': 'edito',
+							'orderId': undefined						},
+						'user': {
+							'userProfile': 'anonymous'						}
+					});
+				</script>
+							<!-- Google Tag Manager -->
+			<script>
+				(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NWGXDWB');
+			</script>
+			<!-- End Google Tag Manager -->
+			                <!--
+                Start of global snippet: Please do not remove
+                Place this snippet between the <head> and </head> tags on every page of your site.
+                -->
+
+                <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=DC-12087197"></script>
+                <script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+
+                    gtag('config', 'DC-12087197');
+                </script>
+
+                <!-- End of global snippet: Please do not remove -->	<link rel="shortcut icon"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/favicon-16x16.png" sizes="16x16">
+	<link rel="apple-icon" sizes="57x57"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-57x57.png">
+	<link rel="apple-icon" sizes="114x114"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-114x114.png">
+	<link rel="apple-icon" sizes="72x72"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-72x72.png">
+	<link rel="apple-icon" sizes="144x144"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-144x144.png">
+	<link rel="apple-icon" sizes="60x60"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-60x60.png">
+	<link rel="apple-icon" sizes="120x120"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-120x120.png">
+	<link rel="apple-icon" sizes="76x76"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-76x76.png">
+	<link rel="apple-icon" sizes="152x152"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-152x152.png">
+	<link rel="apple-icon" sizes="180x180"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png"
+	      href="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/favicon-32x32.png" sizes="32x32">
+
+	<meta name="application-name" content="silicon.de"/>
+	<meta name="msapplication-TileColor" content="#7272A0"/>
+	<meta name="msapplication-square70x70logo"
+	      content="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-70x70.png"/>
+	<meta name="msapplication-square150x150logo"
+	      content="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon--150x150.png"/>
+	<meta name="msapplication-wide310x150logo"
+	      content="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-310x150.png"/>
+	<meta name="msapplication-square310x310logo"
+	      content="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-310x310.png"/>
+
+	<meta name="twitter:image" content="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-250x188.png"/>
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "NewsArticle",
+			"author": {
+				"@type": "Person",
+				"name": "Silicon Redaktion"
+			},
+			"name": "Microsoft Power BI Premium nun allgemein verfügbar",
+			"description": "Angekündigt wurde die Software im Mai. Anwender können sie flexibel buchen, die Kosten berechnen sich nach virtuellen Cores und der Memory-Größe. Als Auswahlhilfe stellt Microsoft ein Kalkulationstool zur Verfügung.",
+			"thumbnailUrl": "https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi.png",
+			"datePublished": "2017-06-13T13:30:38+02:00",
+			"dateModified": "2017-06-13T13:21:08+02:00",
+			"articleSection": "Data",
+			"headline": "Microsoft Power BI Premium nun allgemein verfügbar",
+			"image": {
+				"@type": "ImageObject",
+				"url": "https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi.png",
+				"width": "800",
+				"height": "600"
+			},
+			"publisher" : {
+				"@type": "Organization",
+				"name": "silicon.de",
+				"logo" : {
+					"@type": "ImageObject",
+					"url": "https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/mstile-70x70.png",
+					"width": "",
+					"height": ""
+				}
+			},
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"id": "https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar"
+			}
+		}
+		</script>
+				<!-- Asynchronous GPT tag -->
+				<script type="text/javascript">
+					var googletag = googletag || {};
+					googletag.cmd = googletag.cmd || [];
+				</script>
+				<!-- END asynchronous GPT tag -->
+
+					<link rel="preconnect" href="//sdk.privacy-center.org" />
+
+    <script type="text/javascript">
+        window.gdprAppliesGlobally = true;
+        window.didomiConfig = {
+            app: {
+                privacyPolicyURL: 'https://www.silicon.de/service/datenschutz',
+                name: 'silicon.de',
+                gdprAppliesGlobally: true,
+                gdprAppliesWhenUnknown: true
+            },
+
+            languages: {
+                enabled: ['de'], // List of languages that visitors can use (must be a subset of the languages that we support)
+                default: 'de' // Default language to use if the visitor uses a language that is not enabled
+            },
+            tagManager: {
+                provider: 'gtm'
+            },
+
+            preferences: {
+                canCloseWhenConsentIsMissing: true,
+            }
+        };
+
+        (function () {
+            function a(e) {
+                if (!window.frames[e]) {
+                    if (document.body && document.body.firstChild) { var t = document.body; var n = document.createElement("iframe"); n.style.display = "none"; n.name = e; n.title = e; t.insertBefore(n, t.firstChild) }
+                    else { setTimeout(function () { a(e) }, 5) }
+                }
+            }
+            function e(n, r, o, c, s) {
+                function e(e, t, n, a) { if (typeof n !== "function") { return } if (!window[r]) { window[r] = [] } var i = false; if (s) { i = s(e, t, n) } if (!i) { window[r].push({ command: e, parameter: t, callback: n, version: a }) } } e.stub = true; function t(a) {
+                    if (!window[n] || window[n].stub !== true) { return } if (!a.data) { return }
+                    var i = typeof a.data === "string"; var e; try { e = i ? JSON.parse(a.data) : a.data } catch (t) { return } if (e[o]) { var r = e[o]; window[n](r.command, r.parameter, function (e, t) { var n = {}; n[c] = { returnValue: e, success: t, callId: r.callId }; a.source.postMessage(i ? JSON.stringify(n) : n, "*") }, r.version) }
+                }
+                if (typeof window[n] !== "function") { window[n] = e; if (window.addEventListener) { window.addEventListener("message", t, false) } else { window.attachEvent("onmessage", t) } }
+            }
+            e("__tcfapi", "__tcfapiBuffer", "__tcfapiCall", "__tcfapiReturn"); a("__tcfapiLocator");
+
+            (function (e) {
+                var t = document.createElement("script"); t.id = "spcloader"; t.type = "text/javascript"; t.async = true; t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname; t.charset = "utf-8"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(t, n)
+            })("39b2a1e4-3ac4-460e-abdd-96f2c4bf8fe5")
+        })();
+    </script>
+		<script type="text/javascript">
+		(function ($) {
+			$(window).load(function() {
+				AdBlocker = (function () {
+					USE_ADBLOCK = null;
+					function kamino_detect_adblock(){
+						var detect = 0;
+						if( $('.dfp_ad').find('iframe').length == 0 ){
+							detect = 1;
+						}
+
+						if(detect == 1){ USE_ADBLOCK = true; }
+						else{ USE_ADBLOCK = false; }
+
+						return USE_ADBLOCK;
+					}
+					return kamino_detect_adblock();
+				})();
+			});
+		}(jQuery));
+	</script>
+	<link rel="icon" href="https://www.silicon.de/wp-content/uploads/2019/11/cropped-favicon-16x16-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.silicon.de/wp-content/uploads/2019/11/cropped-favicon-16x16-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.silicon.de/wp-content/uploads/2019/11/cropped-favicon-16x16-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.silicon.de/wp-content/uploads/2019/11/cropped-favicon-16x16-270x270.png" />
+    
+
+            <script type="text/javascript">
+            var kamino_triggeredfrom = 'https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar';
+        </script>
+    </head>
+
+<body id="main-body" class="post-template-default single single-post postid-41650453 single-format-standard germany silicon theme_v3 custom_theme_v3">
+
+<!-- Slider Editorial special -->
+
+<div class="only-for-desktop"></div>	<script type="text/javascript">
+		dfp_device_view = "mobile";
+		hutt_defineSlot = {};
+		hutt_defineSlot_slot_object = {};
+		hutt_defineSlot_slot_object_infinite_scroll = [];
+				hutt_original_page_id = "41650453";
+		
+		//This will detect if we are on desktop or mobile device
+		var only_for_desktop = jQuery(".only-for-desktop").filter(":visible");
+		if(only_for_desktop.length > 0){
+			dfp_device_view = "desktop";
+		}
+
+		googletag.cmd.push(function() {
+googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.pubads().disableInitialLoad();googletag.enableServices();});
+		var refresh_slots = function(){
+
+			/*for (var k in hutt_defineSlot) {
+			 console.log('This size is currently on hutt_defineSlot array: '+ k);
+			 }*/
+
+			for (var k in hutt_defineSlot) {
+				var el = document.getElementById(k);
+
+				// We display automatically some out of page tags
+				// else in exemple the skin will be displayed only if we see the bottom of the page
+				if( hutt_defineSlot[k]['size'] == '[1,1]' || hutt_defineSlot[k]['size'] == '[2,2]' || hutt_defineSlot[k]['size'] == '[3,3]' || hutt_defineSlot[k]['size'] == '[4,4]' || hutt_defineSlot[k]['size'] == '[5,5]' || hutt_defineSlot[k]['size'] == '[6,6]'){
+					//console.log(k+': is now displayed (init)');
+					googletag.pubads().refresh([hutt_defineSlot_slot_object[k]['slot']], {changeCorrelator: false});
+					delete hutt_defineSlot[k];
+					continue;
+				}
+
+				if (isvisible(jQuery(el), true)) {
+					//console.log(k+': is now displayed (visible)');
+					googletag.pubads().refresh([hutt_defineSlot_slot_object[k]['slot']], {changeCorrelator: false});
+					delete hutt_defineSlot[k];
+					continue;
+				}
+			}
+		};
+
+		// allow us to display ads when API is ready.
+		var display_ads = function() {
+            var gads = document.createElement("script");
+            gads.async = true;
+            gads.type = "text/javascript";
+            gads.src = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+            var node = document.getElementsByTagName("script")[0];
+            node.parentNode.insertBefore(gads, node);
+                        
+			googletag.cmd.push(function () {
+
+				refresh_slots();
+
+				setTimeout(function(){
+					refresh_slots();
+				}, 200);
+
+				setTimeout(function(){
+					refresh_slots();
+				}, 1500);
+
+				setTimeout(function(){
+					refresh_slots();
+				}, 2500);
+
+				var locked = false;
+				var win = jQuery(window);
+				win.scroll(function(event) {
+					if(locked || hutt_defineSlot === null || hutt_defineSlot === undefined){
+						return;
+					}
+					//console.log('scroll');
+					locked = true;
+					for (var k in hutt_defineSlot) {
+						var el = document.getElementById(k);
+						if (isvisible(jQuery(el), true)) {
+							//console.log(k+': is now displayed (scroll)');
+							googletag.pubads().refresh([hutt_defineSlot_slot_object[k]['slot']], {changeCorrelator: false});
+							delete hutt_defineSlot[k];
+							continue;
+						}
+					}
+					locked = false;
+				});
+
+			});
+		}
+			</script>
+	<script type="text/javascript" id="DESKTOP_SKIN-41650453-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_SKIN-41650453-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_SKIN-41650453-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_SKIN-0 desktop sticky-DESKTOP_SKIN-41650453-0");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[1, 1], "div-gpt-ad-DESKTOP_SKIN-41650453-0").setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[1, 1]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_SKIN-41650453-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_SKIN-41650453-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SKIN-41650453-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SKIN-41650453-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_SKIN-41650453-0");});}</script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWGXDWB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+                <!--
+                Event snippet for RTG_IT_DE on : Please do not remove.
+                Place this snippet on pages with events you’re tracking.
+                Creation date: 07/05/2024
+                -->
+                <script>
+                    gtag('event', 'conversion', {
+                        'allow_custom_scripts': true,
+                        'send_to': 'DC-12087197/invmedia/rtg_i0+standard'
+                    });
+                </script>
+                <noscript>
+                <img src="https://ad.doubleclick.net/ddm/activity/src=12087197;type=invmedia;cat=rtg_i0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=;gdpr_consent=;ord=1?" width="1" height="1" alt=""/>
+                </noscript>
+                <!-- End of event snippet: Please do not remove -->
+
+    <header id="main-header" class="main--header"  role="banner">
+        <div id="primary-bar" class=" titlewording ">
+            <div class="wrapper clearfix">
+                    <span id="open-menu-mobile"> </span>
+                    <div id="menu-mobile">
+                        <div class="menu">
+                                <ul id="menu-altes-template-menu-left-v2" class="nav-menus"><li id="menu-item-41714255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41714255"><a href="/">Menu</a>
+<ul class="sub-menu">
+	<li id="menu-item-41714256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41714256"><a href="/">Artikel</a>
+	<ul class="sub-menu">
+		<li id="menu-item-41714244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714244"><a href="https://www.silicon.de/news/cloud">Cloud</a></li>
+		<li id="menu-item-41714243" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-41714243"><a href="https://www.silicon.de/news/data-ki-iot">Data</a></li>
+		<li id="menu-item-41714245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714245"><a href="https://www.silicon.de/news/e-enterprise">Unternehmen</a></li>
+		<li id="menu-item-41714246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714246"><a href="https://www.silicon.de/news/e-innovation/green-it">Green-IT</a></li>
+		<li id="menu-item-41714247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714247"><a href="https://www.silicon.de/news/iot">IoT</a></li>
+		<li id="menu-item-41714248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714248"><a href="https://www.silicon.de/news/e-marketing/ecommerce">E-Commerce</a></li>
+		<li id="menu-item-41714249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714249"><a href="https://www.silicon.de/news/mobility">Mobile</a></li>
+		<li id="menu-item-41714250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714250"><a href="https://www.silicon.de/news/software">Software</a></li>
+		<li id="menu-item-41714251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41714251"><a href="https://www.silicon.de/news/security">Cybersicherheit</a></li>
+		<li id="menu-item-41714252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41714252"><a href="https://www.silicon.de/editorial/searchcontent/recherche=podcast">Podcasts</a></li>
+		<li id="menu-item-41714253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41714253"><a href="https://whitepaper.silicon.de">Whitepaper</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>                        </div>
+                    </div>
+                    		<div class="site-title has_tagline ">
+							<a href="https://www.silicon.de/" title="silicon.de" rel="home">
+					<img src="https://www.silicon.de/wp-content/themes/kamino/assets/images/logos_silicon/silicon.png" alt="silicon.de" width="145" height="33">
+				</a>
+												<span class="tagline"> TECHNOLOGY POWERING BUSINESS</span>
+									</div>
+	                    <div class="main-menu">
+                        <ul id="menu-podast-events-wp" class="nav-menus"><li id="menu-item-41696591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696591"><a href="https://whitepaper.silicon.de">Whitepaper</a></li>
+<li id="menu-item-41696589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696589"><a href="/themen/podcast">Podcasts</a></li>
+<li id="menu-item-41711430" class="menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-41711430"><a href="https://www.silicon.de/event">Events</a></li>
+</ul>                    </div>
+                
+                <div class="top-menu">
+                    <ul id="menu-folgen-sie-uns-oben-rechts" class="nav-menus"><li id="menu-item-41696606" class="search--btn menu-item menu-item-type-custom menu-item-object-custom menu-item-41696606"><a href="#"><img width="24" height="24" src="/wp-content/themes/kamino/assets/refonte_v2/images/search-bleu.png" alt=""></a></li>
+<li id="menu-item-41696607" class="btn-connexion menu-item menu-item-type-custom menu-item-object-custom menu-item-41696607"><a href="#"><img width="24" height="24" src="/wp-content/themes/kamino/assets/refonte_v2/images/profil.png" alt=""></a></li>
+<li id="menu-item-41696608" class="btn-newsletter menu-item menu-item-type-custom menu-item-object-custom menu-item-41696608"><a href="https://subscriber.silicon.de/profile/new-profile-1.php?continue=http%3A%2F%2Fwww.silicon.de%2F&#038;continue_label=Silicon&#038;utm_source=kamino-newsletter-top&#038;_ga=2.245854080.506096397.1623668833-1855562437.1623668833"><img width="24" height="24" src="/wp-content/themes/kamino/assets/refonte_v2/images/icon-newsletter.png"></a></li>
+<li id="menu-item-41696593" class="follow menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41696593"><a rel="follow" href="#">Folgen Sie uns</a>
+<ul class="sub-menu">
+	<li id="menu-item-41696596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696596"><a target="_blank" rel="noopener" href="https://www.xing.com/news/pages/silicon-de-82">Xing</a></li>
+	<li id="menu-item-41696597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696597"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/silicon-de">LinkedIn</a></li>
+	<li id="menu-item-41696598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696598"><a target="_blank" rel="noopener" href="https://twitter.com/silicon_de">X</a></li>
+	<li id="menu-item-41696599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696599"><a target="_blank" rel="noopener" href="https://www.facebook.com/silicon.de">Facebook</a></li>
+	<li id="menu-item-41696600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696600"><a target="_blank" rel="noopener" href="https://www.silicon.de/service/feeds/">RSS-Feeds</a></li>
+</ul>
+</li>
+</ul>                </div>
+            </div>
+        </div>
+
+        <nav id="secondary-bar">
+            <div class="wrapper clearfix">
+                <ul id="menu-menu-bottom-v3" class="right nav-menus"><li id="menu-item-41715466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41715466"><a href="https://www.silicon.de/news/cloud">Cloud</a></li>
+<li id="menu-item-41715467" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-41715467"><a href="https://www.silicon.de/news/data-ki-iot">Data</a></li>
+<li id="menu-item-41715468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41715468"><a href="https://www.silicon.de/news/security">Cybersicherheit</a></li>
+<li id="menu-item-41715469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41715469"><a href="https://www.silicon.de/news/digitalisierung">Digitalisierung</a></li>
+<li id="menu-item-41715470" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41715470"><a href="https://www.silicon.de/news/e-enterprise">Unternehmen</a></li>
+<li id="menu-item-41715471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41715471"><a href="https://www.silicon.de/news/deals">Deals</a></li>
+<li id="menu-item-41715472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41715472"><a href="https://www.silicon.de/news/best-practice">Best Practice</a></li>
+</ul> 
+            </div>
+        </nav>
+        <div class="search-form_content wrapper clearfix">
+            <div id="search-form">
+                <div class="wrapper clearfix"> 
+    <form role="search" class="searchSubmitForm search-form" method="get" action="https://www.silicon.de/">
+        <input type="search" class="search-field"
+                placeholder=""
+                value="" name="s"
+                title="Suche nach:"/>
+        <input type="submit" class="search-submit" value="Suche"/>
+    </form>
+
+     </div>
+            </div>
+        </div>
+    </header>
+
+<div class="btn-abo-fixed">
+                <a class="abo-nl" href="//subscriber.silicon.de/profile/new-profile-1.php?continue=http%3A%2F%2Fwww.silicon.de%2F&continue_label=Silicon&utm_source=kamino-newsletter-top"> <img src="https://www.silicon.de/wp-content/themes/kamino/assets/refonte_v2/images/email.png" alt="" width="24" height="24"> </a>
+        </div>
+
+<div id="page" class="hfeed site">
+            <div id="main" class="wrapper clearfix">
+            <script type="text/javascript" id="MOBILE_BANNER-41650453-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("MOBILE_BANNER-41650453-1");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_BANNER-41650453-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_BANNER-1 mobile sticky-MOBILE_BANNER-41650453-1");slot_div.setAttribute("height", "0");var word = "Anzeige";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[[320, 50], [300, 50]], "div-gpt-ad-MOBILE_BANNER-41650453-1").setTargeting("position", 1).setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[320, 50], [300, 50]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-41650453-1"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-41650453-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-41650453-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-41650453-1"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_BANNER-41650453-1");});}</script><script type="text/javascript" id="DESKTOP_MEGA-41650453-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_MEGA-41650453-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_MEGA-41650453-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_MEGA-1 desktop sticky-DESKTOP_MEGA-41650453-1");slot_div.setAttribute("height", "0");var word = "Anzeige";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[[728, 90], [728, 200], [970, 250], [970, 90], [1080, 90], [1080, 250], [1000, 200],[1000, 250], [970, 150], [900, 200], [1080, 200], [1014, 300], [1080, 440]], "div-gpt-ad-DESKTOP_MEGA-41650453-1").setTargeting("position", 1).setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[728, 90], [728, 200], [970, 250], [970, 90], [1080, 90], [1080, 250], [1000, 200],[1000, 250], [970, 150], [900, 200], [1080, 200], [1014, 300], [1080, 440]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-41650453-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-41650453-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-41650453-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-41650453-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_MEGA-41650453-1");});}</script>
+	<div id="content" class="site-content content-41650453" role="main">
+	<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://www.silicon.de/","name":"Home"},{"@type":"ListItem","position":2,"item":"https://www.silicon.de/news/data-ki-iot","name":"Data"},{"@type":"ListItem","position":3,"item":"https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar","name":"Microsoft Power BI Premium nun allgemein verfügbar"}]}</script> <p id="breadcrumbs"><span><span><a href="https://www.silicon.de/">Home</a> » Nachrichten  <span><a href="https://www.silicon.de/news/data-ki-iot">Data</a></span></p>				<article id="post-41650453" class="clearfix post-41650453 post type-post status-publish format-standard has-post-thumbnail hentry category-data-ki-iot tag-business-intelligence tag-microsoft displayed_authors-peter-marwan"  itemscope itemtype="http://schema.org/NewsArticle">
+			<section class="wrap-article-content">
+
+			<header class="entry-header">
+
+				<h1 class="entry-title" itemprop="name">Microsoft Power BI Premium nun allgemein verfügbar</h1>
+				<div class="entry-author-date">
+					<a href="https://www.silicon.de/autor/peter-marwan"><span class="author vcard">Peter Marwan</span></a>, <span class="date"><time class="entry-date" datetime="2017-06-13T13:30:38+02:00" itemprop="datePublished">13.6.2017, 13:30 Uhr</time></span>				</div>
+												<div class="entry-tools"></div>
+
+			</header>
+			<!-- .entry-header -->
+
+				<div class="articleWrapper">
+												<div class="entry-social-v3 postID-41650453" data-postid="41650453">
+						<!-- debug| stdClass Object
+(
+    [facebook] => 2
+    [google] => 0
+    [twitter] => 0
+    [linkedin] => 2
+    [comment] => 0
+    [total] => 4
+    [__cache_timestamp] => 1498042899
+    [__cache_type] => 0
+)
+|--></div>
+						<div class="imageTitleWrapper">
+														<picture class="img">
+								<source srcset="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-684x513.png" media="(min-width: 1080px)">
+								<source srcset="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-440x330.png">
+
+																	<img width="684" height="513" class="lazy-load " data-src="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-684x513.png" data-srcset="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-684x513.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-684x513.png" alt="Power BI (Bild: Microsoft)">
+
+															</picture>
+						</div>
+
+					<!-- .entry-header -->
+					<section class="article-content"  itemprop="articleBody">
+																			<div class="entry-excerpt"><p>Angekündigt wurde die Software im Mai. Anwender können sie flexibel buchen, die Kosten berechnen sich nach virtuellen Cores und der Memory-Größe. Als Auswahlhilfe stellt Microsoft ein Kalkulationstool zur Verfügung.</p>
+</div>
+																			<div class="entry-content">                    <p>Auf dem <a href="https://www.microsoft.com/en-us/datainsightssummit/default.aspx" target="_blank">Microsoft Data Insights Summit</a> hat James Phillips, Corporate Vice President für Microsofts Sparte Business Applications, Platform and Intelligence (BAPI), angekündigt, dass Power BI Premium ab sofort <a href="https://powerbi.microsoft.com/en-us/blog/power-bi-premium-generally-available/" target="_blank">allgemein verfügbar ist</a>. Vorgestellt wurde die auf dem seit 2015 verfügbaren <a href="http://www.silicon.de/41608503/microsoft-stellt-eine-neue-version-von-power-bi-vor/" target="_blank">Power BI</a> aufbauende Business-Intelligence-Software <a href="https://powerbi.microsoft.com/en-us/blog/microsoft-accelerates-modern-bi-adoption-with-power-bi-premium/" target="_blank">bereits Anfang Mai</a>. Mit ihr will Microsoft dazu beitragen, dass erstellte Berichte in Unternehmen von einer größeren Zahl an Anwendern eingesehen und genutzt werden können. Damit das gelingt, wurde auch die Lizenzpolitik modifiziert.</p></p></p>
+<p><a href="http://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi.png"><img decoding="async" title="Power BI (Bild: Microsoft)"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-250x188.png" alt="Power BI (Bild: Microsoft)" width="250" height="188" class="lazy-load alignright size-medium wp-image-41614564"  srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-srcset="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-250x188.png 250w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-150x113.png 150w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-684x513.png 684w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-120x90.png 120w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-440x330.png 440w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-300x225.png 300w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-422x315.png 422w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-196x147.png 196w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi-333x250.png 333w, https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi.png 800w" sizes="(max-width: 250px) 100vw, 250px" /></a></p></p></p>
+<p>Grundsätzlich soll die Premium-Edition von Power BI Unternehmen speziell für sie festgelegte Ressourcen zusichern. Damit entfallen dann auch einige der Begrenzungen für die Datenmodelle, die für die anderen, in der Cloud betriebenen Versionen von Power BI gelten. Außerdem können Nutzer dadurch ihre Analyseinhalte in größerem Umfang weitergeben. <a href="http://www.silicon.de/41620817/power-bi-microsoft-erweitert-publish-funktionen/" target="_blank">Grundsätzlich eingeführt</a>, wurde diese Publish genannte Funktion bei Power BI bereits im Frühjahr, mit der Premium-Version ist das aber ohne den Erwerb zusätzlicher Lizenzen möglich.</p></p></p>
+<p>Außerdem neu ist mit der Premium-Variante von Power BI, dass Daten nun alle 30 Minuten aktualisiert werden können. Das ist längst noch nicht &#8220;Echtzeit&#8221;, wie das andere Anbieter anstreben oder anbieten, dürfte aber in vielen Fällen für die anvisierten Anwendung aber durchaus ausreichen – vor allem wenn der Nutzen einer Aktualisierung in kürzeren Zeitabständen und die dafür anfallenden Kosten gegeneinander abgewogen werden.</p></p></p>
+        <div class="highlightBox" id="highlightbox-41634264">
+            <div class="highlight">
+                <div class="content">
+                    <div class="header">Ausgewähltes Whitepaper</div>
+                    <h3>
+                                                    <a onclick="ga('send', 'event', 'highlight-box', 'click', '41634264_galaxy-s7-smartphones-von-samsung-im-unternehmenseinsatz-2'); return true;" href="https://whitepaper.silicon.de/resource/studie-zu-filesharing-im-unternehmen-kollaboration-im-sicheren-und-skalierbaren-umfeld">
+                                Studie zu Filesharing im Unternehmen: Kollaboration im sicheren und skalierbaren Umfeld                            </a>
+                                                </h3>
+
+                    <p>Im Rahmen der von techconsult im Auftrag von ownCloud und IBM durchgeführten Studie wurde das Filesharing in deutschen Unternehmen ab 500 Mitarbeitern im Kontext organisatorischer, technischer und sicherheitsrelevanter Aspekte untersucht, um gegenwärtige Zustände, Bedürfnisse und Optimierungspotentiale aufzuzeigen. Jetzt herunterladen!</p>
+
+                                            <div class="more">
+                            <a onclick="ga('send', 'event', 'highlight-box', 'click', '41634264_galaxy-s7-smartphones-von-samsung-im-unternehmenseinsatz-2'); return true;" href="https://whitepaper.silicon.de/resource/studie-zu-filesharing-im-unternehmen-kollaboration-im-sicheren-und-skalierbaren-umfeld">
+                                Jetzt herunterladen&nbsp;&raquo;
+                            </a>
+                        </div>
+                                        </div>
+            </div>
+        </div>
+        
+<p><a href="https://powerbi.microsoft.com/en-us/power-bi-premium/" target="_blank">Power BI Premium</a> wird in drei Grundversionen angeboten. Sie unterscheiden sich in Bezug auf die benötigte Server-Kapazität, gemessen an virtuellen Cores und Memory-Größe. Die für sie passende Version können Firmen anhand der Nutzeranzahl und der Nutzerprofile mit einem <a href="https://powerbi.microsoft.com/de-de/calculator/" target="_blank">Kalkulations-Tool berechnen</a>. Es zeigt dann auch direkt die Preise pro Nutzer an. So fallen bei insgesamt 500 Nutzern, von denen 100 als &#8220;Pro-Nutzer&#8221; und 400 als Intensivnutzer eingestuft werden, etwa 840 Euro Gebühren für die Nutzer an (8,40 Euro pro Pro-Nutzer) und 4200 Euro für einen P1-Knoten von Power BI Premium, also insgesamt 5040 Euro.</p></p></p>
+<p>Darin ist ein <a href="https://powerbi.microsoft.com/report-server" target="_blank">Berichts-Server</a> bereits enthalten, der auch auf Infrastruktur des Anwenderunternehmens laufen kann. In Kombination mit den Anpassungsmöglichkeiten bei der Visualisierung, die allerdings etwas Aufwand erfordern, können Firmen sich damit tatsächlich eigene Berichte erstellen und diese auch nach Belieben im Unternehmen weitergeben, ohne sich Gedanken um Lizenzkosten machen zu müssen. Außerdem können Entwickler den Dienst über Power BI Embedded in ihre Anwendungen integrieren. Die Lizenzkosten dafür beginnen bei 625 Dollar pro Monat.</p></p></p>
+<figure id="attachment_41620552" aria-describedby="caption-attachment-41620552" style="width: 684px" class="wp-caption aligncenter"><a href="http://www.silicon.de/wp-content/uploads/2016/01/microsoft-power-bi-universal-app.jpg"><img decoding="async" loading="lazy" title="Microsofts Power BI lässt sich als Universal App auf sämtlichen Windows-10-Geräten nutzen. (Bild: Microsoft)"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://www.silicon.de/wp-content/uploads/2016/01/microsoft-power-bi-universal-app-684x456.jpg" alt="Microsofts Power BI lässt sich als Universal App auf sämtlichen Windows-10-Geräten nutzen. (Bild: Microsoft) " width="684" height="456" class="lazy-load size-large wp-image-41620552"  srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-srcset="https://www.silicon.de/wp-content/uploads/2016/01/microsoft-power-bi-universal-app-684x456.jpg 684w, https://www.silicon.de/wp-content/uploads/2016/01/microsoft-power-bi-universal-app-150x100.jpg 150w, https://www.silicon.de/wp-content/uploads/2016/01/microsoft-power-bi-universal-app-250x167.jpg 250w, https://www.silicon.de/wp-content/uploads/2016/01/microsoft-power-bi-universal-app.jpg 1200w" sizes="(max-width: 684px) 100vw, 684px" /></a><figcaption id="caption-attachment-41620552" class="wp-caption-text"><strong>Microsofts Power BI lässt sich seit Anfang 2016 als Universal App auf sämtlichen Windows-10-Geräten nutzen. (Bild: Microsoft) </strong></figcaption></figure>
+<p>Die weitergehende Nutzung durch eine Vielzahl von Anwendern und einer Vielzahl von Geräten hat Microsoft wohl schon länger vorbreitet. Ein Schritt dazu war etwa die grundlegend <a href="http://www.silicon.de/41620551/microsoft-power-bi-als-windows-10-app/" target="_blank">neue Gestaltung von Power BI im Januar 2016</a>. Damals hatte Microsoft das Business-Intelligence-Tool als Universal App auf Windows 10 angepasst und somit auch dafür, gesorgt, dass es sich automatisch an die Auflösung des Bildschirms anpasst.</p></p></p>
+<p><strong>Tipp:</strong> Was wissen sie über Microsoft? <a href="http://www.silicon.de/survey/was-wissen-sie-ueber-microsoft/">Überprüfen Sie Ihr Wissen &#8211; mit 15 Fragen auf silicon.de.</a></p></p></p>
+<div class='DESKTOP_IN_ARTICLE'><script type="text/javascript" id="DESKTOP_IN_ARTICLE-41650453-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_IN_ARTICLE-41650453-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_IN_ARTICLE-0 desktop sticky-DESKTOP_IN_ARTICLE-41650453-0");slot_div.setAttribute("height", "0");var word = "Anzeige";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[8, 8], "div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0").setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[8, 8]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_IN_ARTICLE-41650453-0");});}</script></div></p><div id="read-more-1">
+                    <span> Lesen Sie auch : </span>
+                    <a id="read-more-link-1" href="https://www.silicon.de/41703307/ontap-mit-turbo">ONTAP mit Turbo</a>
+                </div></p></p><div class="rwm-podcast-player" data-pid="1eda2497-8964-67d8-8d06-7f1fb7f2fb83"></div><script type="text/javascript" src="https://publishers.edisound.com/player/javascript/init.js" async></script></div>
+																		<div class="visibility-end-of-article"></div>
+																</section>
+
+				</div>
+				<footer class="entry-meta">
+
+					<!--  new elements --><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.silicon.de/wp-content/uploads/2015/07/microsoft_power-bi.png"><meta itemprop="width" content="800"><meta itemprop="height" content="600"></div><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.silicon.de/wp-content/themes/kamino/assets/images/favicons_silicon/mstile-70x70.png"><meta itemprop="width" content=""><meta itemprop="height" content=""></div><meta itemprop="name" content="Microsoft Power BI Premium nun allgemein verfügbar"></div><meta itemprop="datePublished" content="2017-06-13T13:30:38+02:00"/><meta itemprop="dateModified" content="2017-06-13T13:21:08+02:00"/><meta itemprop="headline" content="Microsoft Power BI Premium nun allgemein verfügbar" /><meta itemprop="author" content="Silicon Redaktion" /><meta itemscope itemprop="mainEntityOfPage" content="" itemType="https://schema.org/WebPage" itemid="https://www.silicon.de/41650453/microsoft-power-bi-premium-nun-allgemein-verfuegbar"/><!-- / nouveaux éléments -->
+                    <script type="text/javascript" id="MOBILE_MPU-41650453-4">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("MOBILE_MPU-41650453-4");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_MPU-41650453-4");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_MPU-4 mobile sticky-MOBILE_MPU-41650453-4");slot_div.setAttribute("height", "0");var word = "Anzeige";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[[300, 250], [300, 600]], "div-gpt-ad-MOBILE_MPU-41650453-4").setTargeting("position", 4).setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[300, 250], [300, 600]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_MPU-41650453-4"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_MPU-41650453-4"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_MPU-41650453-4"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_MPU-41650453-4"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_MPU-41650453-4");});}</script>					<aside class="clearfix">
+						<div class="widget-title noBorder">Artikel empfehlen:</div>
+						<div class="entry-social">
+
+							            <span class="facebook-share btn-share">
+                <a rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.silicon.de%2F41650453%2Fmicrosoft-power-bi-premium-nun-allgemein-verfuegbar" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=400,width=600');return false;">
+                    <span class="genericon genericon-facebook-alt"></span>
+                    2                </a>
+            </span>
+                        <span class="twitter-share btn-share">
+                <a rel="nofollow"
+                   href="https://twitter.com/share?text=Microsoft+Power+BI+Premium+nun+allgemein+verf%C3%BCgbar&url=https%3A%2F%2Fwww.silicon.de%2F41650453%2Fmicrosoft-power-bi-premium-nun-allgemein-verfuegbar"
+                   target="_blank"
+                   onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=400,width=600');return false;">
+                    <span class="genericon genericon-twitter"></span>
+                                    </a>
+            </span>
+                        <span class="linkedin-share btn-share">
+                <a rel="nofollow" href="//www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.silicon.de%2F41650453%2Fmicrosoft-power-bi-premium-nun-allgemein-verfuegbar&title=Microsoft+Power+BI+Premium+nun+allgemein+verf%C3%BCgbar&source=https%3A%2F%2Fwww.silicon.de" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=400,width=600');return false;">
+                    <span class="genericon genericon-linkedin-alt"></span>
+                    2                </a>
+            </span>
+            						</div>
+						<div class="entry-tools"></div>
+
+						
+						
+					</aside>
+					﻿                        				</footer><!-- .entry-meta -->
+			</section>
+			<aside class="wrap-article-info">
+									<div id="41650453" class="wrap">
+	                    <div class="41650453">
+	                        	                        <script type="text/javascript" id="DESKTOP_MPU-41650453-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_MPU-41650453-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_MPU-41650453-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_MPU-1 desktop sticky-DESKTOP_MPU-41650453-1");slot_div.setAttribute("height", "0");var word = "Anzeige";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[[300, 250], [300, 600], [300, 90]], "div-gpt-ad-DESKTOP_MPU-41650453-1").setTargeting("position", 1).setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[300, 250], [300, 600], [300, 90]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_MPU-41650453-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_MPU-41650453-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MPU-41650453-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MPU-41650453-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_MPU-41650453-1");});}</script>
+	                        
+	                        	                        	                    </div>
+												</div>
+					﻿                                <div class="register-newsletter register-newsletter-V3" style="">
+                        <fieldset>
+                            <div class="register-newsletter-form">
+                                <p class="newsletter-site"> NEWSLETTER </p>
+                                <p class="newsletter-title" > Abonnieren Sie unsere besten Artikel </p>
+
+                                <div class="formWrapper">
+                                    <input type="email" id="sidebare-newsletter-email" class="register-newsletter-email" name="email"
+                                        placeholder="Deine E-Mail" >
+                                    <input type="email" class="register-newsletter-email-prevent-spam" name="email-test"
+                                        value="" style="display: none">
+                                    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" value="">
+                                    <button type="submit" class="register-newsletter-button btn" nid="108"
+                                            index="daily"><img width="42" height="38" src="https://www.silicon.de/wp-content/plugins/kamino-quick-registration/public/images/icon-envoi.gif"></button>
+                                </div>
+                            </div>
+                            <header class="archive-header">
+                                <div class="share-container">
+                                    <!-- debug| stdClass Object
+(
+    [facebook] => 2
+    [google] => 0
+    [twitter] => 0
+    [linkedin] => 2
+    [comment] => 0
+    [total] => 4
+    [__cache_timestamp] => 1498042899
+    [__cache_type] => 0
+)
+|-->                                    <div class="facebook-share btnShare">
+                        <a rel="nofollow" href="https://www.facebook.com/silicon.de" target="_blank">
+                            <span class="socialIco">
+                                <i class="fa fa-facebook" aria-hidden="true"></i> Facebook
+                            </span>
+                        </a>
+                    </div>
+                                                                   <div class="twitter-share btnShare">
+                        <a rel="nofollow"
+                           href="https://twitter.com/silicon_de"
+                           target="_blank">
+                            <span class="socialIco"> <i class="fa fa-twitter" aria-hidden="true"></i> Twitter</span>
+
+                        </a>
+                    </div>
+                                                                    <div class="linkedin-share btnShare">
+                        <a rel="nofollow" href="https://linkedin.com/showcase/silicon-de" target="_blank">
+                            <span class="socialIco"> <i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin</span>
+                        </a>
+                    </div>
+                                                                </div>
+                            </header>
+                            <div class="register-newsletter-result"></div>
+                        </fieldset>
+                    </div>
+                            							</aside>
+		</article><!-- #post -->
+		<aside id="modal_Brandvoice" class="modal-brandvoice" role="dialog" >
+			<div class="modal-wrapper">
+				<span id="close_modal_Brandvoice" class="modal-close">X</span>
+				<span class="titlemodal">Brand Voice</span>
+				<div class="conentmodal">
+					<p>
+						Brand Voice bietet Werbetreibenden die Möglichkeit, unsere professionelle Leserschaft direkt anzusprechen. Es handelt sich dabei um ein Werbeformat, das sich in den redaktionellen Inhalt und das gesamte Seitendesign einfügt und ein unaufdringliches aber dennoch eindrucksvolles Werbeerlebnis liefert. Leser können die Herkunft durch die Kennzeichnung “Brand Voice“ einfach nachvollziehen. Für weitere Informationen stehen wir Ihnen unter der folgenden Adresse zur Verfügung:						<a href="mailto:de-sales@netmediaeurope.com" target="_blank"> de-sales@netmediaeurope.com </a>					</p>
+				</div>
+			</div>
+		</aside>
+		<section class="after-article">
+		<aside class="after-article-left single-V2">
+					</aside>
+	
+	</div><!-- #content -->
+
+﻿                                <div class="wrap-contenus register-newsletter register-newsletter-V3">
+                        <fieldset>
+                            <div class="register-newsletter-form">
+                                <span class="newsletter-site"> NEWSLETTER </span>
+                                <span class="newsletter-title"> Abonnieren Sie unsere besten Artikel </span>
+
+                                <div class="formWrapper">
+                                    <input type="email" id="before-footer-newsletter-email" class="register-newsletter-email" name="email"
+                                        placeholder="Deine E-Mail">
+                                    <input type="email" class="register-newsletter-email-prevent-spam" name="email-test"
+                                        value="" style="display: none">
+                                    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" value="">
+                                    <button type="submit" class="register-newsletter-button btn" nid="108"
+                                            index="daily">Ich abonniere</button>
+                                </div>
+                            </div>
+
+                            <div class="register-newsletter-result"></div>
+                        </fieldset>
+                    </div>
+                              
+	<script type="text/javascript">
+		(function ($) {
+
+			$.fn.stickyInfiniteSidebar = function (options) {
+				var config = $.extend({
+					wrapperSelector: '#content',
+					sidebarTopMargin: 90,
+					topStoppingCondition: ""
+				}, options);
+                                 
+				var fixSidebr = function () {
+                 
+					var viewportHeight = $(window).outerHeight();
+					var viewportWidth = $(window).outerWidth();
+					var documentHeight = $(document).height();
+					var content = $(this);
+					var contentTop = content.offset().top;
+					var contentHeight = $(content).outerHeight();
+					var contentBottom = contentTop + contentHeight;
+					var wrapper = $(content).closest(config.wrapperSelector);
+					var wrapperTop = $(wrapper).offset().top;
+					var wrapperHeight = $(wrapper).outerHeight(true);
+					var outer_wpadminbar = $('#wpadminbar').length ? $('#wpadminbar').outerHeight(true) : 0;
+					var header_banner = $('header[role=banner]').length ? $('header[role=banner]').height() : 0;
+					var breakingPoint1 = ($(wrapper).offset().top - ($('#primary-bar').outerHeight(true) + outer_wpadminbar +$('#secondary-bar').outerHeight(true)));
+					//var breakingPoint1 = ($(wrapper).offset().top + $('.entry-header').outerHeight(true) + $('#widget-article-41650453').outerHeight(true));
+
+					var articleTop = $('article').offset().top;
+					var breakingPoint2 = (wrapperTop + wrapperHeight) - contentHeight - $('.entry-header').outerHeight(true) ;
+					var wrapperBottom = breakingPoint1 + wrapperHeight;
+					var scroll_top = $(window).scrollTop();
+					if (config.topStoppingCondition !== "") {
+						breakingPoint1 += config.topStoppingCondition;
+						config.sidebarTopMargin = 140;
+					}
+					// if ((viewportHeight > contentHeight) ) {
+						if (scroll_top < breakingPoint1 ) {
+							content.removeClass('sticky-element');
+						} else if ((scroll_top >= breakingPoint1) && (scroll_top < breakingPoint2)) {
+							content.addClass('sticky-element').css('top', config.sidebarTopMargin);
+						} else/* if( contentTop > breakingPoint1 && contentBottom < wrapperBottom)*/{
+							var wpadminbar = $('#wpadminbar').length ? $('#wpadminbar').height() : 0;
+							var negative = breakingPoint2 - scroll_top + (header_banner + wpadminbar );
+							content.addClass('sticky-element').css('top', negative);
+						}
+						if(wrapperHeight < contentHeight){
+							content.removeClass('sticky-element');
+						}
+					
+				}
+
+				return this.each(function () {
+					$(window).on('scroll', $.proxy(fixSidebr, this));
+					$(window).on('resize', $.proxy(fixSidebr, this))
+					$.proxy(fixSidebr, this)();
+				});
+
+			};
+
+		}(jQuery));
+	</script>
+	<script type="text/javascript">
+		(function ($) {
+			var screenWidth = $(window).width();
+			
+		    if (screenWidth < 751)
+				return;
+			var postID = 41650453;
+			var selector = $('#stick-mpu-'+postID);
+		    var $wrapperSelector='article';
+			$(selector).width('336px');
+			console.log("---------------");
+			console.log($(selector).attr('id'));
+			console.log('.before-mpu2-'+postID);
+			console.log("---------------");
+			if (selector.length) {
+
+				$(selector).stickyInfiniteSidebar({
+					wrapperSelector: $wrapperSelector
+				});
+			}
+
+			$(window).load(function () {
+
+				var postID = 41650453;
+					var selector = $('#stick-mpu-'+postID);
+					var $wrapperSelector='article';
+				
+				if (selector.length) {
+					$(selector).stickyInfiniteSidebar({
+						wrapperSelector: $wrapperSelector
+					});
+				}					
+			});
+
+		}(jQuery));
+	</script>
+	<div id="related_posts"><span>Die Redaktion empfiehlt Ihnen</span><div class="related-posts">            <div class="related-posts__item">
+                <div class="relatedthumb"><a href="https://www.silicon.de/41718265/mangel-an-ki-reifen-daten-gefaehrdet-ki-projekte" title="41718265Microsoft Power BI Premium nun allgemein verfügbar"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-120x90.jpg" data-srcset="https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-120x90.jpg 120w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-684x513.jpg 684w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-440x330.jpg 440w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-300x225.jpg 300w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-422x315.jpg 422w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-196x147.jpg 196w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-333x250.jpg 333w, https://www.silicon.de/wp-content/uploads/2025/02/shutterstock_2312787937-600x450.jpg 600w" /></a></div>
+                <div class="relatedcontent">
+                    <a href="https://www.silicon.de/41718265/mangel-an-ki-reifen-daten-gefaehrdet-ki-projekte" title="Mangel an KI-reifen Daten gefährdet KI-Projekte">Mangel an KI-reifen Daten gefährdet KI-Projekte</a>
+                </div>
+            </div>
+                        <div class="related-posts__item">
+                <div class="relatedthumb"><a href="https://www.silicon.de/41717704/hycu-wachsende-herausforderungen-fuer-backup-recovery-und-cyberresilienz-durch-ki" title="41717704Microsoft Power BI Premium nun allgemein verfügbar"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-120x90.jpg" data-srcset="https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-120x90.jpg 120w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-684x513.jpg 684w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-440x330.jpg 440w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-300x225.jpg 300w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-422x315.jpg 422w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-196x147.jpg 196w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-333x250.jpg 333w, https://www.silicon.de/wp-content/uploads/2024/12/word-trends-with-colored-blocks-on-yellow-backgrou-2023-11-27-05-07-53-utc-600x450.jpg 600w" /></a></div>
+                <div class="relatedcontent">
+                    <a href="https://www.silicon.de/41717704/hycu-wachsende-herausforderungen-fuer-backup-recovery-und-cyberresilienz-durch-ki" title="HYCU: Wachsende Herausforderungen für Backup, Recovery und Cyberresilienz durch KI">HYCU: Wachsende Herausforderungen für Backup, Recovery und Cyberresilienz durch KI</a>
+                </div>
+            </div>
+                        <div class="related-posts__item">
+                <div class="relatedthumb"><a href="https://www.silicon.de/41716895/rechenzentrumsnetzwerke-als-schluessel-fuer-desaster-recovery" title="41716895Microsoft Power BI Premium nun allgemein verfügbar"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.de/wp-content/uploads/2024/11/Huawei-120x90.jpg" data-srcset="https://www.silicon.de/wp-content/uploads/2024/11/Huawei-120x90.jpg 120w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-250x188.jpg 250w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-684x513.jpg 684w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-150x113.jpg 150w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-768x576.jpg 768w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-1536x1152.jpg 1536w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-2048x1536.jpg 2048w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-440x330.jpg 440w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-300x225.jpg 300w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-422x315.jpg 422w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-196x147.jpg 196w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-333x250.jpg 333w, https://www.silicon.de/wp-content/uploads/2024/11/Huawei-600x450.jpg 600w" /></a></div>
+                <div class="relatedcontent">
+                    <a href="https://www.silicon.de/41716895/rechenzentrumsnetzwerke-als-schluessel-fuer-desaster-recovery" title="Rechenzentrumsnetzwerke als Schlüssel für Desaster Recovery">Rechenzentrumsnetzwerke als Schlüssel für Desaster Recovery</a>
+                </div>
+            </div>
+                        <div class="related-posts__item">
+                <div class="relatedthumb"><a href="https://www.silicon.de/41716672/zukunftssichere-datensicherung-als-treiber-der-intelligenten-wirtschaft" title="41716672Microsoft Power BI Premium nun allgemein verfügbar"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-120x90.jpg" data-srcset="https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-120x90.jpg 120w, https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-440x330.jpg 440w, https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-300x225.jpg 300w, https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-422x315.jpg 422w, https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-196x147.jpg 196w, https://www.silicon.de/wp-content/uploads/2024/11/Data-Storage-333x250.jpg 333w" /></a></div>
+                <div class="relatedcontent">
+                    <a href="https://www.silicon.de/41716672/zukunftssichere-datensicherung-als-treiber-der-intelligenten-wirtschaft" title="Zukunftssichere Datensicherung als Treiber der intelligenten Wirtschaft ">Zukunftssichere Datensicherung als Treiber der intelligenten Wirtschaft </a>
+                </div>
+            </div>
+                        <div class="related-posts__item">
+                <div class="relatedthumb"><a href="https://www.silicon.de/41715743/41715743" title="41715743Microsoft Power BI Premium nun allgemein verfügbar"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-120x90.jpg" data-srcset="https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-120x90.jpg 120w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-684x513.jpg 684w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-440x330.jpg 440w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-300x225.jpg 300w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-422x315.jpg 422w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-196x147.jpg 196w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-333x250.jpg 333w, https://www.silicon.de/wp-content/uploads/2023/12/green-digital-matrix-data-background-2023-11-27-05-24-09-utc-600x450.jpg 600w" /></a></div>
+                <div class="relatedcontent">
+                    <a href="https://www.silicon.de/41715743/41715743" title="All-Flash-Rechenzentren senken Energiekonsum durch KI">All-Flash-Rechenzentren senken Energiekonsum durch KI</a>
+                </div>
+            </div>
+                        <div class="related-posts__item">
+                <div class="relatedthumb"><a href="https://www.silicon.de/41715594/flughafen-heathrow-passagierfluss-management-optimieren" title="41715594Microsoft Power BI Premium nun allgemein verfügbar"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-120x90.jpg" data-srcset="https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-120x90.jpg 120w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-684x513.jpg 684w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-440x330.jpg 440w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-300x225.jpg 300w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-422x315.jpg 422w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-196x147.jpg 196w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-333x250.jpg 333w, https://www.silicon.de/wp-content/uploads/2024/09/airplane-preparing-for-landing-at-the-airport-2023-11-27-05-14-29-utc-600x450.jpg 600w" /></a></div>
+                <div class="relatedcontent">
+                    <a href="https://www.silicon.de/41715594/flughafen-heathrow-passagierfluss-management-optimieren" title="Flughafen Heathrow: Passagierfluss-Management optimieren">Flughafen Heathrow: Passagierfluss-Management optimieren</a>
+                </div>
+            </div>
+            </div></div>    	<div class="tags">
+    		<ul>
+    			                    <li class="list_tag"><a href="https://www.silicon.de/themen/business-intelligence">#Business Intelligence</a></li>
+                                        <li class="list_tag"><a href="https://www.silicon.de/themen/microsoft">#Microsoft</a></li>
+                        		</ul>
+    	</div>
+    	<script type="text/javascript">
+    window.onload = function(){
+		// sticky ads sidebar
+		let contentHeight = document.querySelector('#content .wrap-article-content'),
+		sideBarHeight =  document.querySelector('#content aside.wrap-article-info');
+		console.log('No aside_sticky');
+
+		if ( contentHeight.offsetHeight > sideBarHeight.offsetHeight ) {
+			sideBarHeight.classList.add('aside_sticky');
+			console.log('hello aside_sticky');
+		}
+	};
+    (function ($) {
+		// ANW-14 : Brandvoice Modal
+		$('#brandvoice_modal').click(function(){
+			$('#modal_Brandvoice').css('display', 'flex');
+			$('#modal_Brandvoice .modal-wrapper').addClass('fedeModal');
+		});
+		$('#close_modal_Brandvoice').click(function(){
+			$('#modal_Brandvoice').css('display', 'none');
+		});
+
+				
+    }(jQuery));
+</script>
+    <!-- Vertical Social share -->
+    <script type="text/javascript">
+        (function($) {
+            var postID = 41650453;
+            /*var selector = $('.entry-social-v3.postID-' + postID);
+            if (selector.length) {
+            	$(selector).stickySocialbar({
+            		wrapperSelector: '.articleWrapper'
+            	});
+            }*/
+            // $(window).load(function () {
+            // 	var selector = $('.entry-social-v3.postID-' + postID);
+            // 	if (selector.length) {
+            // 		$(selector).stickySocialbar({
+            // 			wrapperSelector: '.articleWrapper'
+            // 		});
+            // 	}
+            // });
+        }(jQuery));
+    </script>
+    <!-- GA visibility-->
+    <!--script type="application/javascript">
+	kaminoVisibility.seenEndOfArticle = false;
+
+	jQuery(window).scroll(function () {
+		if (!kaminoVisibility.seenEndOfArticle && (jQuery)('.visibility-end-of-article').kaminoIsOnScreen()) {
+			// console.log('triggered:visibility-end-of-article!');
+			ga('send', 'event', 'visibility', 'end-of-article', 'on:' + '');
+			kaminoVisibility.seenEndOfArticle = true;
+		}
+	});
+
+</script-->
+<div class="before_footer"> ﻿                                <aside class="wrap-contenus pre_footer">
+                        		<a href="https://www.silicon.de/" title="silicon.de" rel="home">
+                            <img width="165" height="auto" class="lazy-load " data-src="https://www.silicon.de/wp-content/themes/kamino/assets/images/logos_silicon/silicon_logo.png" data-srcset="https://www.silicon.de/wp-content/themes/kamino/assets/images/logos_silicon/silicon_logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="silicon.de">
+            
+		</a>
+                        <header class="archive-header">
+                            <p> Folge uns: </p>
+                            <div class="share-container">
+                                <!-- debug| stdClass Object
+(
+    [facebook] => 2
+    [google] => 0
+    [twitter] => 0
+    [linkedin] => 2
+    [comment] => 0
+    [total] => 4
+    [__cache_timestamp] => 1498042899
+    [__cache_type] => 0
+)
+|-->                                    <div class="facebook-share btnShare">
+                        <a rel="nofollow" href="https://www.facebook.com/silicon.de" target="_blank">
+                            <span class="socialIco">
+                                <i class="fa fa-facebook" aria-hidden="true"></i> Facebook
+                            </span>
+                        </a>
+                    </div>
+                                                                   <div class="twitter-share btnShare">
+                        <a rel="nofollow"
+                           href="https://twitter.com/silicon_de"
+                           target="_blank">
+                            <span class="socialIco"> <i class="fa fa-twitter" aria-hidden="true"></i> Twitter</span>
+
+                        </a>
+                    </div>
+                                                                    <div class="linkedin-share btnShare">
+                        <a rel="nofollow" href="https://linkedin.com/showcase/silicon-de" target="_blank">
+                            <span class="socialIco"> <i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin</span>
+                        </a>
+                    </div>
+                                                            </div>
+                        </header>
+                        <div class="register-newsletter register-newsletter-V3">
+                            <fieldset>
+                                <div class="register-newsletter-form">
+                                    <span class="newsletter-site"> NEWSLETTER </span>
+                                    <div class="formWrapper">
+                                        <input type="email" id="before-general-footer-newsletter-email" class="register-newsletter-email" name="email"
+                                            placeholder="Abonnieren">
+                                        <input type="email" class="register-newsletter-email-prevent-spam" name="email-test"
+                                            value="" style="display: none">
+                                        <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" value="">
+                                        <button type="submit" class="register-newsletter-button btn" nid="108"
+                                                index="daily">Ok</button>
+                                    </div>
+                                </div>
+
+                                <div class="register-newsletter-result"></div>
+                            </fieldset>
+                        </div>
+                    </aside>
+                             </div>
+<div id="infinite-scroll-marker-end" style="display: none;"></div>
+    </div><!-- #main -->
+</div><!-- #page -->
+<footer id="footer" class="site-footer-v3" role="contentinfo">
+    	<div id='default-popup' class='event-popin pop-in default-pop-in'>
+			<a id='close_popupmn' class="close_popin" href="#" rel='nofollow'></a>
+			<div class='wrap-contenus relative'>
+				<img src="https://www.silicon.de/wp-content/uploads/2025/03/g-data-banner-250x208-1.png">
+				<div class='col-100'>
+					<div class='bloc-base'>
+						<h2> <span class='black-color'> Wir freuen uns auf Ihre Teilnahme am 08. April um 10:00 Uhr </span><br></h2>
+						<a rel='nofollow' href="https://www.gdata.de/business/webinare/webinar-detail/was-bringt-managed-xdr-thalia-berichtet-aus-der-praxis?utm_source=netmedia&utm_medium=display&utm_campaign=mxdr_webinar" target='_blank'>Zur Anmeldung</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+    <script type="text/javascript" defer="defer">
+
+        (function ($) {
+                var site_name = "silicon.de",
+                    site_name = site_name.replace('itespresso', 'ITespresso'),
+                    site_name = site_name.replace('siliconnews', 'SiliconNews'),
+                    site_name = site_name.replace('siliconweek', 'SiliconWeek'),
+                    site_name = site_name.replace('silicon', 'Silicon'),
+                    site_name = site_name.replace('channelbiz', 'Channelbiz'),
+                    site_name = site_name.replace('techweekeurope', 'TechWeekEurope'),
+                    site_name = site_name.replace('zdnet', 'ZDNet'),
+                    cookie_site_name = 'ct_echo',
+                    display_message = false,
+                    domain = ".www.silicon.de";
+
+                    display_message = true;
+                    var text = "Erhalten Sie die neuesten IT-Nachrichten, Analysen, Funktionen und Interviews zu wichtigen Themen der Technologiebranche direkt in Ihren Posteingang. Neben unserer Expertenberichterstattung erhalten Sie auch andere nützliche Ressourcen wie Jobs, Whitepapers und Downloads. Melden Sie sich noch heute kostenlos an und informieren Sie sich über alle Aspekte der IT-Revolution.";
+
+                    // Creating the message
+                    var message = '<div class="glyphicon glyphicon-remove"></div>';
+                    message += '<div class="abl-overlay-message-title"> ' + "Melde dich kostenlos bei Silicon DE an" + ' </div>';
+                    message += '<div class="abl-overlay-message-content">';
+                    message += '<div class="abl-overlay-message-content-message">'+text+'</div>';
+                    message += '<div class="abl-overlay-message-newsletter">';
+                    message += '<div class="abl-overlay-message-newsletter-form">';
+                    message += '<input type="email" class="abl-overlay-message-newsletter-email" name="email"  placeholder="E-Mail Adresse">';
+                    message += '<button type="submit" class="abl-overlay-message-newsletter-button btn">' + "Abonnieren" + '</button>';
+                    message += '<div class="abl-overlay-message-newsletter-result"></div>';
+                    message += '</div>';
+                    message += '</div>';
+                    message += '</div>';
+
+                    //Create cookie for Newsletter Message
+                    function setNewsletterMessageCookie(cname,cvalue) {
+                        var d = new Date();
+                        var time = d.getTime();
+                        time += 7 * 24 * 60 * 60 * 1000;
+                        d.setTime(time);
+                        var expires = "expires="+d.toUTCString();
+                        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                    }
+
+                    function getNewsletterMessageCookie(cname) {
+                        var name = cname + "=";
+                        var decodedCookie = decodeURIComponent(document.cookie);
+                        var ca = decodedCookie.split(';');
+                        for(var i = 0; i < ca.length; i++) {
+                            var c = ca[i];
+                            while (c.charAt(0) == ' ') {
+                                c = c.substring(1);
+                            }
+                            if (c.indexOf(name) == 0) {
+                                return c.substring(name.length, c.length);
+                            }
+                        }
+                        return "";
+                    }
+                    
+                    if (!getNewsletterMessageCookie("NewsletterPopin")){
+
+                            var overlay = jQuery('<div id="nl-overlay"></div>');
+                            overlay.appendTo("body");
+
+                            var overlay_message = jQuery('<div class="abl-overlay-message">' + message + '</div>');
+                            overlay_message.appendTo("#nl-overlay");
+
+                            var overlay_bg = jQuery('<div class="abl-overlay-bg"> </div>');
+                            overlay_bg.appendTo("#nl-overlay");
+
+                    }
+
+                    // If user close the message
+                    $("#nl-overlay .glyphicon-remove, #nl-overlay .abl-overlay-bg").on("click", function() {
+
+                        setNewsletterMessageCookie("NewsletterPopin", "true");
+                        $("#nl-overlay").remove();
+                    });
+
+                    //form
+                    var reg_email = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                    var url_post = "//subscriber.silicon.de" + '/profile/register-to-newsletter.php';
+                    var failure_field = "Bitte die Email-Adresse eintragen";
+                    var failure_form = "Ungültige Email-Adresse";
+                    var request_fail_msg = "Leider konnte der Vorgang nicht abgeschlossen werden. Bitte versuchen Sie es später noch einmal.";
+
+                    $(".abl-overlay-message-newsletter-button.btn").click( function(){
+
+                        var input_email = $(".abl-overlay-message-newsletter-email").val();
+                        //check email
+                        if (input_email == "" || !input_email) {
+                            $( ".abl-overlay-message-newsletter-success" ).remove();
+                            $( ".abl-overlay-message-newsletter-failure" ).remove();
+                            $( ".abl-overlay-message-newsletter-result" ).append( '<div class="abl-overlay-message-newsletter-failure">' + failure_field + '</div>' );
+                        }else if(!reg_email.test(input_email)){
+                            $( ".abl-overlay-message-newsletter-success" ).remove();
+                            $( ".abl-overlay-message-newsletter-failure" ).remove();
+                            $( ".abl-overlay-message-newsletter-result" ).append( '<div class="abl-overlay-message-newsletter-failure">' + failure_form + '</div>' );
+                            $(".abl-overlay-message-newsletter-email").value = input_email;
+                        }
+                        else{
+
+                            var request = jQuery.ajax({
+                                url: url_post,
+                                method: "POST",
+                                data: { nid:"NULL", site: "Silicon UK", email: input_email, track: 'via-newsletter-popup/'+site_name, subscription_url: '//subscriber.silicon.de' },
+                                dataType: "json"
+                            });
+
+                            request.done(function( response ) {
+                                if( response ) {
+                                    if (response.status == true) {
+                                        var success_message = response.data;
+                                        $(".abl-overlay-message-newsletter-success").remove();
+                                        $(".abl-overlay-message-newsletter-failure").remove();
+                                        $(".abl-overlay-message-newsletter-result").append('<div class="abl-overlay-message-newsletter-success">' + success_message + '</div>');
+
+                                        $(".abl-overlay-message-content-message").css("display", "none");
+                                        $(".abl-overlay-message-newsletter-login").css("display", "none");
+                                        $(".abl-overlay-message-newsletter-email").css("display", "none");
+                                        $(".abl-overlay-message-newsletter-button").css("display", "none");
+
+                                        if (typeof _sdt == 'function') {
+
+                                            var push_data = {"site":{"name":"silicon.de","domain":"www.silicon.de","country":"germany"},"page":"single","type":"post","id":41650453,"slug":"microsoft-power-bi-premium-nun-allgemein-verfuegbar","url":"https:\/\/www.silicon.de\/41650453\/microsoft-power-bi-premium-nun-allgemein-verfuegbar","title":"Microsoft Power BI Premium nun allgemein verf\u00fcgbar","author":"Peter Marwan","taxonomy":[{"name":"category","slug":"news","data":[{"name":"Data","slug":"data-ki-iot"}]},{"name":"post_tag","slug":"themen","data":[{"name":"Business Intelligence","slug":"business-intelligence"},{"name":"Microsoft","slug":"microsoft"}]},{"name":"displayed_experts","slug":"experten"},{"name":"displayed_advertisers","slug":"advertiser"},{"name":"displayed_authors","slug":"autor","data":[{"name":"Peter Marwan","slug":"peter-marwan"}]}]};
+                                            _sdt(
+                                                'push',
+                                                'newsletter_subscription',
+                                                push_data
+                                            );
+
+                                        }
+
+                                    } else {
+                                        var error_message = response.data;
+                                        $(".abl-overlay-message-newsletter-success").remove();
+                                        $(".abl-overlay-message-newsletter-failure").remove();
+                                        $(".abl-overlay-message-newsletter-result").append('<div class="abl-overlay-message-newsletter-failure">' + error_message + '</div>');
+                                    }
+                                }
+                            });
+
+                            request.fail(function( jqXHR, textStatus ) {
+                                $( ".abl-overlay-message-newsletter-success" ).remove();
+                                $( ".abl-overlay-message-newsletter-failure" ).remove();
+                                $( ".abl-overlay-message-newsletter-result" ).append( '<div class="abl-overlay-message-newsletter-failure">' + request_fail_msg + '</div>' );
+                            });
+
+                        };
+                    });
+        }(jQuery));
+    </script>
+
+    <div class="wrapper">
+        <aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="widget-title">Silicon</div><div class="textwidget custom-html-widget">SILICON ist eine führende Informationsquelle für News, Analysen, Interviews, Kommentare und Gastbeiträge rund um ICT und Digitalisierung. Bleiben Sie auf dem aktuellen Stand, melden Sie sich für unseren Newsletter an und besuchen Sie unsere Veranstaltungen. </div></aside><aside id="nav_menu-6" class="widget widget_nav_menu"><div class="widget-title">Kontakt zur Redaktion</div><div class="menu-footer-kontakt-zur-redaktion-container"><ul id="menu-footer-kontakt-zur-redaktion" class="menu"><li id="menu-item-41696569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696569"><a rel="nofollow" href="/service/feedback/edit/">Kontakt</a></li>
+<li id="menu-item-41696570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696570"><a rel="nofollow" href="/service/ueber_silicon/">Über silicon.de</a></li>
+<li id="menu-item-41697071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41697071"><a href="https://www.silicon.de/datenschutz-bestimmungen">Datenschutzbestimmungen</a></li>
+</ul></div></aside><aside id="nav_menu-8" class="widget widget_nav_menu"><div class="widget-title">Services</div><div class="menu-footer-services-container"><ul id="menu-footer-services" class="menu"><li id="menu-item-41696562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696562"><a target="_blank" rel="nofollow" href="https://www.silicon.de/service/impressum">Impressum</a></li>
+<li id="menu-item-41696563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696563"><a target="_blank" rel="nofollow" href="https://www.silicon.de/mediadaten-2023">Mediadaten</a></li>
+</ul></div></aside><aside id="nav_menu-7" class="widget widget_nav_menu"><div class="widget-title">Kontakt zu Sales</div><div class="menu-footer-kontakt-zu-sales-container"><ul id="menu-footer-kontakt-zu-sales" class="menu"><li id="menu-item-41711693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41711693"><a href="https://www.silicon.de/service/feedback/bizdev">Ihre Kooperationsanfrage an Silicon.de</a></li>
+<li id="menu-item-41696560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41696560"><a target="_blank" rel="nofollow" href="https://www.nmg-international.com/">NETMEDIA International</a></li>
+</ul></div></aside><aside class="widget widget_text int"><div class="textwidget"><span class="titel-flags">NetMedia International : </span><ul><li class="de"><a href="https://www.silicon.de/">Deutschland</a></li><li class="fr"><a href="https://www.silicon.fr/">Frankreich</a></li></ul><ul><li class="pt"><a href="https://www.silicon.pt/">Portugal</a></li><li class="es"><a href="https://www.silicon.es/">Spanien</a></li><li class="uk"><a href="https://www.silicon.co.uk/">Großbritannien</a></li><li class="wo"><a href="https://www.nmg-international.com/">Weltweit</a></li></ul><span id="scrollUp"><a id="back-top" class="up_arrow" href=""> &#8593; </a></span></div></aside>    </div>
+    <div class="site-info">
+        NetMedia International &copy; Copyright 2025 All rights reserved. Part of NetMedia International. <a href="https://www.netmediaeurope.com" target="_blank">About NetMedia International</a>    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+<script type="text/javascript" id="DESKTOP_PRE_HOME-41650453-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_PRE_HOME-41650453-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_PRE_HOME-41650453-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_PRE_HOME-1 desktop sticky-DESKTOP_PRE_HOME-41650453-1");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[2, 2], "div-gpt-ad-DESKTOP_PRE_HOME-41650453-1").setTargeting("position", 1).setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[2, 2]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_PRE_HOME-41650453-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_PRE_HOME-41650453-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_PRE_HOME-41650453-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_PRE_HOME-41650453-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_PRE_HOME-41650453-1");});}</script><script type="text/javascript" id="DESKTOP_FLASH_TRANS-41650453-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_FLASH_TRANS-41650453-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_FLASH_TRANS-0 desktop sticky-DESKTOP_FLASH_TRANS-41650453-0");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[5, 5], "div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0").setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[5, 5]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_FLASH_TRANS-41650453-0");});}</script><script type="text/javascript" id="DESKTOP_FOOTER-41650453-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_FOOTER-41650453-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_FOOTER-41650453-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_FOOTER-0 desktop sticky-DESKTOP_FOOTER-41650453-0");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[6, 6], "div-gpt-ad-DESKTOP_FOOTER-41650453-0").setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[6, 6]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_FOOTER-41650453-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_FOOTER-41650453-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FOOTER-41650453-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FOOTER-41650453-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_FOOTER-41650453-0");});}</script><script type="text/javascript" id="DESKTOP_SITE_UNDER-41650453-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("DESKTOP_SITE_UNDER-41650453-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_SITE_UNDER-0 desktop sticky-DESKTOP_SITE_UNDER-41650453-0");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[3, 3], "div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0").setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[3, 3]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_SITE_UNDER-41650453-0");});}</script><script type="text/javascript" id="MOBILE_PRE_HOME-41650453-2">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";var scr = document.getElementById("MOBILE_PRE_HOME-41650453-2");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_PRE_HOME-41650453-2");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_PRE_HOME-2 mobile sticky-MOBILE_PRE_HOME-41650453-2");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/16255858/silicon/article/data-ki-iot",[2, 2], "div-gpt-ad-MOBILE_PRE_HOME-41650453-2").setTargeting("position", 2).setTargeting("artid", "41650453").setTargeting("cat", "data-ki-iot").setTargeting("tag", ["business-intelligence","microsoft"]).setTargeting("displayed_authors", "peter-marwan").setTargeting("type", "post").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[2, 2]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_PRE_HOME-41650453-2"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_PRE_HOME-41650453-2"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_PRE_HOME-41650453-2"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_PRE_HOME-41650453-2"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_PRE_HOME-41650453-2");});}</script>        <script type="text/javascript">
+            (function ( $ ) {
+                var screenWidth = $( window ).width(),
+                    wpadminbar;
+                if ( screenWidth < 751 )
+                    return;
+
+                if ( $( 'header[role=banner]' ).length > 0 ) {
+                    var headerPos = $( 'header[role=banner]' ).position().top;
+                } else {
+                    return;
+                }
+
+                if ( $( 'body' ).hasClass( 'admin-bar' ) ) {
+                    wpadminbar = 32;
+                } else {
+                    wpadminbar = 0;
+                }
+
+                var headerLightPos = $( 'header#main-header' ).position().top;
+
+                var display = false;
+
+                //function to show and hide headers
+                function showLightHeader() {
+                    display = true;
+                    $( 'header#main-header' ).animate( {
+                        top: headerPos
+                    }, 500 );
+                    $( 'header[role=banner]' ).animate( {
+                        top: headerLightPos
+                    }, 500 );
+                }
+
+                function hideLightHeader() {
+                    display = false;
+                    $( 'header#main-header' ).animate( {
+                        top: headerLightPos
+                    }, 'fast' );
+                    $( 'header[role=banner]' ).animate( {
+                        top: headerPos
+                    }, 'fast' );
+                }
+
+                //Modify header position when scroll
+                $( document ).scroll( function ( event ) {
+                    if ( $( this ).scrollTop() >= 400 ) {
+                        if ( display != true ) {
+                            showLightHeader();
+                            //console.log('show');
+                        }
+                    }
+                    else {
+                        if ( display ) {
+                            hideLightHeader();
+                            //console.log('hide');
+                        }
+                    }
+                } );
+
+                //scroll to top
+                $( '.single-scroll-top .glyphicon' ).click( function () {
+                    $( 'body,html' ).animate( {
+                        scrollTop: 0
+                    }, 800 );
+                    return false;
+                } );
+
+
+            }( jQuery ));
+        </script>
+    		<script type="text/javascript" >
+			var link = '<li><a rel="nofollow" href="javascript:Didomi.preferences.show()"> Verwalten Sie Ihre Einwilligungen </a></li>';
+			jQuery("#menu-footer-3, #menu-footer-legal-notices").append(link);
+
+		</script>
+	            <script type="text/javascript">
+                var reCaptchaFocus = function() {
+                    var head = document.getElementsByTagName('head')[0];
+                    var script = document.createElement('script');
+                    script.type = 'text/javascript';
+                    script.src = 'https://www.google.com/recaptcha/api.js?render=6Lfnj8QaAAAAAPv9xKydmJBbULG0cG_6YCB1pY4J';
+                    head.appendChild(script);
+
+                    var recaptchaInterval = setInterval(function() {
+                        if( !window.grecaptcha || !window.grecaptcha.execute ) { return; }
+
+                        clearInterval( recaptchaInterval );
+
+                        grecaptcha.execute('6Lfnj8QaAAAAAPv9xKydmJBbULG0cG_6YCB1pY4J', {action: 'newsletter'}).then(function(token) {
+                            document.getElementById('g-recaptcha-response').value=token;
+                        });
+                    }, 100 );
+                    if(document.querySelector("#sidebare-newsletter-email")) document.getElementById('sidebare-newsletter-email').removeEventListener('focus', reCaptchaFocus);
+                    if(document.querySelector("#before-general-footer-newsletter-email")) document.getElementById('before-general-footer-newsletter-email').removeEventListener('focus', reCaptchaFocus);
+                    if(document.querySelector("#before-footer-newsletter-email")) document.getElementById('before-footer-newsletter-email').removeEventListener('focus', reCaptchaFocus);
+                };
+                if(document.querySelector("#sidebare-newsletter-email")) document.getElementById('sidebare-newsletter-email').addEventListener('focus', reCaptchaFocus, false);
+                if(document.querySelector("#before-general-footer-newsletter-email")) document.getElementById('before-general-footer-newsletter-email').addEventListener('focus', reCaptchaFocus, false);
+                if(document.querySelector("#before-footer-newsletter-email")) document.getElementById('before-footer-newsletter-email').addEventListener('focus', reCaptchaFocus, false);
+            </script>
+        		<script type="text/javascript">
+			(function ($) {
+				setInterval(function () {
+					googletag.pubads().refresh(null, {changeCorrelator: false});
+				}, 90000);
+			})(jQuery);
+		</script><link rel='stylesheet' id='bandwidthtester-css' href='https://www.silicon.de/wp-content/plugins/kamino-bandwith-tester/styles.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bandwidthtester-de-DE-css' href='https://www.silicon.de/wp-content/plugins/kamino-bandwith-tester/styles_de-DE.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.silicon.de\/wp\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.3' id='wp-polls-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp/wp-includes/js/comment-reply.min.js?ver=6.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/kamino-bandwith-tester/js/jQueryRotate.js?ver=6.1' id='jquery-rotate-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/kamino-bandwith-tester/js/nmeBandwidthTester_messages.js?ver=6.1' id='bandwidthtester-messages-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/kamino-bandwith-tester/js/nmeBandwidthTester_messages_de-DE.js?ver=6.1' id='bandwidthtester-messages-de-DE-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/kamino-bandwith-tester/js/nmeBandwidthTester.js?ver=6.1' id='bandwidthtester-js'></script>
+<script type='text/javascript' src='https://www.silicon.de/wp-content/plugins/trinity-audio/js/the_content-hook-script.js?ver=6.1' id='the_content-hook-script-js'></script>
+<script type='text/javascript' id='the_content-hook-script-js-after'>
+console.warn('TRINITY_WP', 'Hide player for post ID: 41650453, enabled: , posthash: , is no text: ', 'TS: 2025-03-23 13:35:35')
+</script>
+<script type='text/javascript'> 
+            jQuery(document).ready(function (){
+                if( typeof LazyLoad !== 'undefined' ){
+                    var rw_lazyload = new LazyLoad({
+                        elements_selector: ".lazy-load",
+                        class_loaded:'lazy-loaded'
+                
+                    });
+                }
+            });
+
+        </script><!-- FOOTER END -->
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        // ANW-3 : limiting characters title post editorial popin
+        jQuery("#editorial-popin .text-editorial").text(function(i, titel) {
+            return (titel.length > 68) ? titel.substring(0, 68) + '..' : titel;
+        });
+
+        // scroll body to 0px on click
+        jQuery("#back-top").click(function() {
+            jQuery('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+</script>
+</body>
+
+</html>
