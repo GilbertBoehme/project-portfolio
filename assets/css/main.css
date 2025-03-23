@@ -2901,23 +2901,6 @@ input, select, textarea {
 
 		}
 
-/* Contact Method */
-
-	.contact-method {
-		margin: 0 0 2em 0;
-		padding-left: 3.25em;
-		position: relative;
-	}
-
-		.contact-method .icon {
-			left: 0;
-			position: absolute;
-			top: 0;
-		}
-
-		.contact-method h3 {
-			margin: 0 0 0.5em 0;
-		}
 
 /* Spotlights */
 
@@ -3621,11 +3604,36 @@ input, select, textarea {
 			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
 
-/* Contact section */
+/* Contact Method */
+.contact-method {
+    margin: 0 0 2em 0;
+    padding-left: 3.25em;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column; /* Ensures consistent alignment */
+}
+
+.contact-method .icon {
+    position: relative; /* Changed from absolute */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3rem; /* Ensures uniform size */
+    height: 3rem;
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+}
+
+.contact-method h3 {
+    margin: 0 0 0.5em 0;
+}
+
+/* Contact Section */
 #contact {
     border-bottom: solid 1px rgba(212, 212, 255, 0.1);
     overflow-x: hidden;
-    padding-bottom: 2em; /* Ensure space for icons at the bottom */
+    padding-bottom: 2em;
 }
 
 #contact > .inner {
@@ -3637,12 +3645,14 @@ input, select, textarea {
 #contact .contact-details {
     display: flex;
     justify-content: space-between;
+    align-items: center; /* Ensures proper alignment */
     margin-bottom: 2em;
 }
 
 #contact .contact-details > section {
     flex: 1;
     padding: 2em;
+    text-align: center;
     border-right: solid 1px rgba(212, 212, 255, 0.1);
 }
 
@@ -3650,31 +3660,24 @@ input, select, textarea {
     border-right: none;
 }
 
-#contact .contact-method {
-    text-align: center;
-}
-
-#contact .contact-method .icon {
-    font-size: 2rem;
-    margin-bottom: 0.5em;
-}
-
-#contact .contact-method h3 {
-    margin: 0;
-    font-size: 1rem;
-}
-
-/* Social media icons */
+/* Social Media Icons */
 #contact .contact-icons {
     display: flex;
-    justify-content: center; /* Center the icons horizontally */
-    gap: 2em; /* Space between icons */
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Allows wrapping if needed */
+    gap: 3em; /* Adjust spacing */
     margin-top: 2em;
     padding-bottom: 2em;
 }
 
 #contact .contact-icons a {
-    font-size: 3rem; /* Increased size for better visibility */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 4rem; /* Ensures uniform size */
+    height: 4rem;
+    font-size: 2.5rem;
     color: #333; /* Default icon color */
     transition: color 0.3s ease;
 }
@@ -3683,7 +3686,7 @@ input, select, textarea {
     color: #0073e6; /* Highlight on hover */
 }
 
-/* Adjust for smaller screens */
+/* Responsive Adjustments */
 @media screen and (max-width: 980px) {
     #contact > .inner {
         display: block;
@@ -3701,13 +3704,12 @@ input, select, textarea {
     }
 
     #contact .contact-icons {
-        flex-direction: row;
-        justify-content: center;
+        flex-wrap: wrap;
         gap: 1.5em;
     }
 
     #contact .contact-icons a {
-        font-size: 2.5rem; /* Slightly smaller icons on tablet */
+        font-size: 2.5rem;
     }
 }
 
@@ -3717,14 +3719,16 @@ input, select, textarea {
     }
 
     #contact .contact-icons {
-        flex-direction: column; /* Stack icons vertically */
+        flex-direction: row; /* Keep icons in a row */
+        flex-wrap: wrap; /* Allow them to wrap instead of stacking */
         gap: 1.5em;
     }
 
     #contact .contact-icons a {
-        font-size: 2rem; /* Smaller icons on mobile */
+        font-size: 2rem;
     }
 }
+
 
 /* Footer */
 
