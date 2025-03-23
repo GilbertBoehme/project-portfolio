@@ -3603,7 +3603,6 @@ input, select, textarea {
 			background-color: transparent;
 			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
-
 /* Contact Section */
 #contact {
     text-align: center;
@@ -3652,6 +3651,15 @@ input, select, textarea {
     background-color: #f8f9fa; /* Light background for better visibility */
     color: #333;
     border: 2px solid #ddd;
+}
+
+/* Responsive Adjustments */
+@media screen and (max-width: 980px) {
+    .contact-details {
+        flex-direction: column;
+        gap: 2em;
+        max-width: 100%;
+    }
 }
 
 /* Responsive Adjustments */
