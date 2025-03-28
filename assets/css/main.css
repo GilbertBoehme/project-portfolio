@@ -2057,22 +2057,22 @@ input, select, textarea {
 
 	::-webkit-input-placeholder {
 		color: rgba(244, 244, 255, 0.2) !important;
-		opacity: 1.0;
+		opacity: 0.1;
 	}
 
 	:-moz-placeholder {
 		color: rgba(244, 244, 255, 0.2) !important;
-		opacity: 1.0;
+		opacity: 0.1;
 	}
 
 	::-moz-placeholder {
 		color: rgba(244, 244, 255, 0.2) !important;
-		opacity: 1.0;
+		opacity: 0.1;
 	}
 
 	:-ms-input-placeholder {
 		color: rgba(244, 244, 255, 0.2) !important;
-		opacity: 1.0;
+		opacity: 0.1;
 	}
 
 /* Box */
@@ -2651,7 +2651,7 @@ input, select, textarea {
 			button.next:active:after,
 			.button.next:hover:after,
 			.button.next:active:after {
-				opacity: 1;
+				opacity: 0.1;
 			}
 
 			@media screen and (max-width: 1280px) {
@@ -2783,16 +2783,16 @@ input, select, textarea {
 			}
 
 			.tiles article:before {
-				-moz-transition: opacity 0.5s ease;
-				-webkit-transition: opacity 0.5s ease;
-				-ms-transition: opacity 0.5s ease;
-				transition: opacity 0.5s ease;
+				-moz-transition: opacity 0.1s ease;
+				-webkit-transition: opacity 0.1s ease;
+				-ms-transition: opacity 0.1s ease;
+				transition: opacity 0.1s ease;
 				bottom: 0;
 				content: '';
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.1;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -2945,7 +2945,7 @@ input, select, textarea {
 					display: block;
 					height: 100%;
 					left: 0;
-					opacity: 0;
+					opacity: 0.1;
 					position: absolute;
 					top: 0;
 					width: 100%;
@@ -3498,7 +3498,7 @@ input, select, textarea {
 		}
 
 		body.is-preload #banner:after {
-			opacity: 1.0;
+			opacity: 0.1;
 		}
 
 		body.is-preload #banner > .inner {
