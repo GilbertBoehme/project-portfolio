@@ -2056,22 +2056,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(36, 41, 67, 0.2) !important;
 		opacity: 0.1;
 	}
 
 	:-moz-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(36, 41, 67, 0.2) !important;
 		opacity: 0.1;
 	}
 
 	::-moz-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(36, 41, 67, 0.2) !important;
 		opacity: 0.1;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(36, 41, 67, 0.2) !important;
 		opacity: 0.1;
 	}
 
